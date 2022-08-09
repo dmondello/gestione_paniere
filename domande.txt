@@ -1,0 +1,11 @@
+QUESTION
+Nella definizione del vettore velocità v=vt, t rappresenta:
+"Il vettore che unisce l’origine del sistema di riferimento col punto in moto","Il versore della tangente alla traiettoria nella posizione del punto in moto","Il versore della perpendicolare alla traiettoria nella posizione del punto in moto","Il vettore che collega due posizioni diverse del punto in moto sulla traiettoria."
+Correct Answer: B Section: (none) Explanation
+
+Explanation/Reference:
+
+QUESTION
+Nel moto rettilineo uniforme la velocità:
+"E’ costante in direzione e verso, ma il modulo varia nel tempo","E’ variabile in modulo, direzione e verso","E’ costante in modulo, direzione e verso","E’ costante in modulo, ma direzione e verso variano nel tempo"
+Correct Answer: C Section: (none) Explanation

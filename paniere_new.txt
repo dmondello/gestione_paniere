@@ -1,0 +1,2305 @@
+question = "Il concetto di insieme e':"
+answers = ["Un concetto primitivo, che intuitivamente rappresenta una collezione di oggetti"]
+alternatives = ["Un concetto indefinito, che intuitivamente e' un numero","Un numero primitivo, che intuitivamente rappresenta una collezione di equazioni","Un concetto antico, che intuitivamente rappresenta un numero"]
+
+question = "A e' un sottoinsieme di B se:"
+answers = ["Ogni elemento di A appartiene a B"]
+alternatives = ["Ogni elemento di B appartiene ad A","Ogni elemento di A e' un sottoinsieme di B","Ogni elemento di B e' un sottoinsieme di A""]
+
+question = "Dati gli insiemi A={1, 3, a, f}, B={3, f}, si ha:"
+answers = ["B e' un sottoinsieme proprio di A"]
+alternatives = ["A e' un sottoinsieme proprio di B","A e B sono uguali","Ae'uninsieme,Bno"]
+
+question = "Sia A l'insieme delle prime cinque lettere dell'alfabeto latino, e B={a, b, c, d, e}. Si ha:"
+answers = ["A e B sono uguali"]
+alternatives = ["A e' un sottoinsieme proprio di B","B e' un sottoinsieme proprio di A","Ae'uninsieme,Bno"]
+
+question = "Dati gli insiemi A={b, h, r, w, z}, B={a, b, e, r}, l'insieme unione e':"
+answers = ["{b,h,r,w,z,a,e} "]
+alternatives = ["{b,h,r,w,z}","{a,b,e,r}","{b,h,r,w,z,a,e,l}""]
+
+question = "Dati gli insiemi X={1, 2}, Y={5, 7}, l'insieme unione e':"
+answers = ["{1,2,5,7}"]
+alternatives = ["{1, 2, 5}","{1,2,5,7,10}","{1,2,3,4,5,6,7}"]
+
+question = "Dati gli insiemi A={b, h, r, w, z}, B={a, b, e, r}, l'insieme intersezione e':"
+answers = ["{b, r}"]
+alternatives = ["L'insieme vuoto","{b,r,w}","{b,r,a}"]
+
+question = "Dati gli insiemi X={1, 2}, Y={5, 7}, l'insieme intersezione e':"
+answers = ["L'insieme vuoto"]
+alternatives = ["{1}","{5}","{1, 2}""]
+
+question = "Dati gli insiemi X={1, a}, Y={2, b}, il prodotto cartesiano e' l'insieme:"
+answers = ["{(1, 2), (1, b), (a, 2), (a, b)}"]
+alternatives = ["{(1, 2), (a, b)}","{(1, b), (a, 2)}","{(1, a), (2, b), (1, 2), (a, b)}"]
+
+question = "Dati gli insiemi X={1, a}, Y={1, 2, 5, b, p}, il prodotto cartesiano:"
+answers = ["Ha 10 elementi"]
+alternatives = ["Ha 8 elementi","Ha 9 elementi","Ha 11 elementi"]
+
+question = "Dati due insiemi A, B, una funzione e' una legge che:"
+answers = ["A ogni elemento di A associa uno (e un solo) elemento di B"]
+alternatives = ["A ogni elemento di A associa diversi elementi di A","A ogni elemento di B associa uno (e un solo) elemento di B","A ogni elemento di A associa diversi elementi di B"]
+
+question = "Data una funzione f dall'insieme A all'insieme B, l'insieme immagine:"
+answers = ["e' l'insieme degli elementi di B che corrispondono, tramite f, a un elemento di A"]
+alternatives = ["e' l'insieme degli elementi di B che corrispondono, tramite f, a un elemento di B","e' l'insieme A","e' l'insieme vuoto""]
+
+question = "Una funzione si dice "iniettiva" se:"
+answers = ["A elementi distinti del dominio corrispondono elementi distinti dell'insieme di arrivo"]
+alternatives = ["A elementi distinti del dominio corrispondono elementi uguali dell'insieme di arrivo","e' ben definita","Non e' ben definita""]
+
+question = "Nell'insieme N dei numeri naturali:"
+answers = ["Dati due elementi a, b, non sempre e' definita la differenza a-b"]
+alternatives = ["Dati due elementi a, b, e' sempre definita la differenza a-b","Dati due elementi a, b, non e' mai definita la somma a+b","Dati due elementi a, b, non e' mai definito il prodotto ab"]
+
+question = "Nell'insieme Z dei numeri interi relativi:"
+answers = ["Dati due elementi a, b, e' sempre definita la differenza a-b"]
+alternatives = ["Dati due elementi a, b, solo qualche volta e' definita la differenza a-b","Dati due elementi a, b, non e' mai definita la differenza a-b","Dati due elementi a, b, non e' mai definita la somma a+b"]
+
+question = "La divisione tra due numeri razionali:"
+answers = ["e' definita se il divisore e' diverso da zero"
+ Section: (none)
+
+ Explanation
+
+]
+alternatives = ["e' sempre definita","Non e' mai definita","e' definita se il divisore e' uguale a zero"]
+
+question = "Dati gli insiemi Z (interi relativi) e Q (razionali):"
+answers = ["Z si puo' pensare come sottoinsieme di Q"]
+alternatives = ["Q si puo' pensare come sottoinsieme di Z","Z e Q sono insiemi vuoti","ZeQsonouguali""]
+
+question = "Data la funzione f (da Z a Z) che a ogni numero associa il suo quadrato, si ha:"
+answers = ["F(-3)=9 "]
+alternatives = ["F(-3)=-9 ","F(-3)=27 ","F(-3)=-27""]
+
+question = "Data la funzione f (da Q a Q) definita dalla legge f(x)=x/2, si ha:"
+answers = ["F(1/5)=1/10 "]
+alternatives = ["F(1/5)=1/5 ","F(1/5)=5","F(1/5)=10"]
+
+question = "La funzione "successivo", da N a N, definita dalla legge f(n)=n+1 e':"
+answers = ["Una funzione iniettiva, dato che numeri diversi hanno successivi diversi"]
+alternatives = ["Una funzione che ha come immagine l'insieme Z","Una funzione che ha come immagine l'insieme Q","Una funzione non iniettiva, dato che numeri diversi possono avere lo stesso successivo"
+
+]
+
+question = "Dato un numero razionale positivo:"
+answers = ["Esiste sempre un numero reale (positivo) che ne rappresenta la radice quadrata"]
+alternatives = ["Esiste sempre un numero razionale che ne rappresenta la radice quadrata","Non esiste mai la radice quadrata","Si puo' dividere per zero"]
+
+question = "La radice di 2 e':"
+answers = ["Un numero irrazionale"]
+alternatives = ["Un numero pari","Un numero dispari","Un numero razionale"]
+
+question = "Dati gli insiemi Q (numeri razionali) e R (numeri reali):"
+answers = ["Q si puo' pensare come sottoinsieme di R"]
+alternatives = ["R si puo' pensare come sottoinsieme di Q","Q e R sono insiemi vuoti","QeRsonouguali""]
+
+question = "L'espressione a(b+c) e' uguale a:"
+answers = ["Ab+ac
+
+]
+alternatives = ["Ab","Ac","B+c "]
+
+question = "L'opposto di 10 e':"
+answers = ["-10"]
+alternatives = ["10","1/10 ","-(1/10)"]
+
+question = "L'inverso di 10 e':"
+answers = ["1/10 "]
+alternatives = ["10","-10","-(1/10)"]
+
+question = "3 elevato a 2 e' uguale a:"
+answers = ["9 "]
+alternatives = ["1/9 ","1 ","3"]
+
+question = "La radice quadrata di 9 e':"
+answers = ["3
+
+]
+alternatives = ["1/9 ","9 ","1 "]
+
+question = "3 elevato a -2 e' uguale a:"
+answers = ["1/9 "]
+alternatives = ["9 ","1 ","3""]
+
+question = "3 elevato a 0 e' uguale a:"
+answers = ["1 "]
+alternatives = ["1/9 ","9 ","3"]
+
+question = "Il logaritmo in base 2 di 4 e':"
+answers = ["2 "]
+alternatives = ["0 ","1 ","3"]
+
+question = "Il logaritmo in base 2 di 8 e':"
+answers = ["3"]
+alternatives = ["0 ","1 ","2
+
+ "]
+
+question = "Il logaritmo in base 2 di 1 e':"
+answers = ["0 "]
+alternatives = ["1 ","2 ","3""]
+
+question = "Il logaritmo in base 2 di 2 e':"
+answers = ["1 "]
+alternatives = ["0 ","2 ","3"]
+
+question = "Dati i numeri -10 e 2 si ha:"
+answers = ["-10 e' minore di 2"]
+alternatives = ["-10 e' uguale a 2","-10 e' maggiore di 2","-10 e' la radice quadrata di 2""]
+
+question = "Dato l'intervallo aperto (-10, 2) si ha:"
+answers = ["-10 non appartiene all'intervallo, -4 appartiene all'intervallo"]
+alternatives = ["-10 e -4 non appartengono all'intervallo","-10 e -4 appartengono all'intervallo","-10 appartiene all'intervallo, -4 non appartiene all'intervallo "]
+
+question = "Dato l'intervallo chiuso [-10, 2] si ha:"
+answers = ["-10 e -4 appartengono all'intervallo"]
+alternatives = ["-10 e -4 non appartengono all'intervallo","-10 appartiene all'intervallo, -4 non appartiene all'intervallo","-10 non appartiene all'intervallo, -4 appartiene all'intervallo"]
+
+question = "Il valore assoluto di 3 e':"
+answers = ["3 "]
+alternatives = ["1 ","-1 ","-3"]
+
+question = "Il valore assoluto di -8 e':"
+answers = ["8 "]
+alternatives = ["-8 ","5 ","-5""]
+
+question = "Il valore assoluto di 0 e':"
+answers = ["0 "]
+alternatives = ["-1","1 ","2"]
+
+question = "Dati due numeri naturali m, n diversi da zero, il MCD e':"
+answers = ["Il piu' grande numero naturale che divide entrambi"]
+alternatives = ["Il piu' piccolo numero naturale che divide entrambi","Un qualsiasi numero naturale che divide entrambi","Un qualsiasi numero naturale"]
+
+question = "Due numeri si dicono "primi tra loro":"
+answers = ["SeilloroMCDe'1"]
+alternatives = ["Se sono numeri primi","Se non sono numeri primi","SeilloroMCDe'2"]
+
+question = "Il MCD tra 10 e 5 e':"
+answers = ["5"]
+alternatives = ["2 ","3 ","4 "]
+
+question = "Il MCD tra 10 e 8 e':"
+answers = ["2 "]
+alternatives = ["3 ","4 ","5""]
+
+question = "Dati due numeri naturali m, n diversi da zero, il mcm e':"
+answers = ["Il piu' piccolo numero naturale (diverso da zero) che e' multiplo di entrambi"]
+alternatives = ["Il piu' grande numero naturale","Il piu' piccolo numero naturale","Il piu' grande numero naturale (diverso da zero) che e' multiplo di entrambi"]
+
+question = "Dati due numeri naturali m, n diversi da zero, il prodotto mn e':"
+answers = ["Uguale al prodotto tra MCD e mcm"]
+alternatives = ["Minore del prodotto tra MCD e mcm","Maggiore del prodotto tra MCD e mcm","Zero"]
+
+question = "Il mcm tra 15 e 1 e':"
+answers = ["15 "]
+alternatives = ["5 ","10 ","20"]
+
+question = "Il mcm tra 10 e 5 e':"
+answers = ["10 "]
+alternatives = ["5 ","15 ","20"]
+
+question = "Una frazione e' ridotta ai minimi termini:"
+answers = ["Se numeratore e denominatore sono primi tra loro"]
+alternatives = ["Se numeratore e denominatore non sono primi tra loro","Se numeratore e denominatore sono pari","Se numeratore e denominatore sono dispari""]
+
+question = "La frazione 5/10 ridotta ai minimi termini e':"
+answers = ["1/2"]
+alternatives = ["4/10 ","5/9 ","3/2 "]
+
+question = "Il quadrato di (a+b) e' uguale a:"
+answers = ["a^2+b^2+2ab"]
+alternatives = ["a^2","b^2","2ab"]
+
+question = "La quantita' a^2+b^2+2ab e' uguale:"
+answers = ["Al quadrato di (a+b)"]
+alternatives = ["Al quadrato di a","Al quadrato di b","Al cubo di (a+b)"]
+
+question = "Il cubo di (a+b) e' uguale a:"
+answers = ["a^3+b^3+3(a^2)b+3a(b^2) "]
+alternatives = ["a^2+b^2","a^3+b^3","a^3+b^3+3(a^3)b+3a(b^3)"]
+
+question = "La quantita' a^3+b^3+3(a^2)b+3a(b^2) e' uguale:"
+answers = ["Al cubo di (a+b)"]
+alternatives = ["Al quadrato di a","Al quadrato di b","Al quadrato di (a+b)"]
+
+question = "Il quadrato di (a+b+c) e' uguale a:"
+answers = ["a^2+b^2+c^2+2ab+2ac+2bc "]
+alternatives = ["a^2+b^2+c^2+3ab+3ac+3bc ","a^3+b^3+c^3+2ab+2ac+2bc ","a^3+b^3+c^3+3ab+3ac+3bc""]
+
+question = "La quantita' a^2+b^2+c^2+2ab+2ac+2bc e' uguale:"
+answers = ["Al quadrato di (a+b+c)"]
+alternatives = ["Al quadrato di a","Al quadrato di (a+b)","Al cubo di b"]
+
+question = "La differenza tra il quadrato di a e il quadrato di b e' uguale a:"
+answers = ["(a+b)(a-b)"]
+alternatives = ["a2","b2","(a+b)(a2+b2-ab) "]
+
+question = "La quantita' (a+b)(a-b) e' uguale a:"
+answers = ["a^2-b^2 "]
+alternatives = ["a^3+b^3 ","a+b","a-b""]
+
+question = "La somma tra il cubo di a e il cubo di b e' uguale a:"
+answers = ["(a+b)(a^2+b^2-ab) "]
+alternatives = ["a^2","b^2","(a+b)(a-b)"]
+
+question = "La quantita' (a+b)(a^2+b^2-ab) e' uguale a:"
+answers = ["a^3+b^3"]
+alternatives = ["a^2-b^2","a+b","a-b"]
+
+question = "L'equazione ax+b=0, nel caso che a e' diverso da zero e b e' diverso da zero:"
+answers = ["Ha soluzione -(b/a)"]
+alternatives = ["Ha soluzione -(a/b)","Non ha soluzioni","Ha per soluzioni tutti i numeri reali"]
+
+question = "L'equazione ax+b=0, nel caso che a e' uguale a zero e b e' diverso da zero:"
+answers = ["Non ha soluzioni"]
+alternatives = ["Ha soluzione -(a/b)","Ha soluzione -(b/a)","Ha per soluzioni tutti i numeri reali"]
+
+question = "L'equazione ax+b=0, nel caso che a e b sono entrambi uguali a zero:"
+answers = ["Ha per soluzioni tutti i numeri reali"]
+alternatives = ["Ha soluzione -(a/b)","Ha soluzione -(b/a)","Non ha soluzioni"]
+
+question = "L'equazione x+1=0 ha soluzione:"
+answers = ["-1 "]
+alternatives = ["1","1⁄2 ","-(1⁄2)"]
+
+question = "L'equazione x-1=0 ha soluzione:"
+answers = ["1"]
+alternatives = ["1⁄2 ","-1 ","-(1⁄2)""]
+
+question = "L'equazione 2x=1 ha soluzione:"
+answers = ["1⁄2 "]
+alternatives = ["1","-1 ","-(1⁄2)"]
+
+question = "L'equazione 2x=-1 ha soluzione:"
+answers = ["-(1⁄2)"]
+alternatives = ["1","1⁄2 ","-1 "]
+
+question = "L'equazione 3x=0 ha soluzione:"
+answers = ["0 "]
+alternatives = ["1 ","2 ","3""]
+
+question = "L'equazione 2x-4=0 ha soluzione:"
+answers = ["2 "]
+alternatives = ["0 ","1 ","3"]
+
+question = "Le proporzioni si possono vedere come particolari:"
+answers = ["Equazioni di primo grado"]
+alternatives = ["Equazioni di secondo grado","Equazioni di terzo grado","Equazioni di quarto grado""]
+
+question = "Un'equazione di secondo grado con discriminante maggiore di zero:"
+answers = ["Ha due soluzioni"]
+alternatives = ["Non ha nessuna soluzione (come numero reale)","Ha un'unica soluzione (in altri termini, due soluzioni coincidenti)","Ha infinite soluzioni"
+ Section: (none)
+Explanation
+
+]
+
+question = "Un'equazione di secondo grado con discriminante uguale a zero:"
+answers = ["Ha un'unica soluzione (in altri termini, due soluzioni coincidenti)"]
+alternatives = ["Non ha nessuna soluzione (come numero reale)","Ha due soluzioni","Ha infinite soluzioni"]
+
+question = "Un'equazione di secondo grado con discriminante minore di zero:"
+answers = ["Non ha nessuna soluzione (come numero reale)"]
+alternatives = ["Ha un'unica soluzione (in altri termini, due soluzioni coincidenti)","Ha due soluzioni","Ha infinite soluzioni""]
+
+question = "L'equazione x(x-1)=0 ha soluzioni:"
+answers = ["0,1 "]
+alternatives = ["0,2 ","0,-2 ","0,-1"]
+
+question = "L'equazione x(x+1)=0 ha soluzioni:"
+answers = ["0,-1"
+
+Section: (none) Explanation
+
+
+]
+alternatives = ["0,2 ","0,-2 ","0,1 "]
+
+question = "L'equazione x(x-2)=0 ha soluzioni:"
+answers = ["0,2 "]
+alternatives = ["0,-2 ","0,1 ","0,-1""]
+
+question = "L'equazione x(x+2)=0 ha soluzioni:"
+answers = ["0,-2 "]
+alternatives = ["0,2 ","0,1 ","0,-1"]
+
+question = "L'equazione x^2+3x+1=0 ha discriminante:"
+answers = ["5 "]
+alternatives = ["4 ","6 ","7"]
+
+question = "L'equazione x^2+2x+1=0 ha discriminante:"
+answers = ["0"]
+alternatives = ["10 ","1 ","-1 "]
+
+question = "In un triangolo rettangolo, la somma delle aree dei quadrati costruiti sui cateti e' uguale:"
+answers = ["All'area del quadrato costruito sull'ipotenusa"]
+alternatives = ["A zero","All'area del quadrato costruito su un cateto","Al volume del cubo costruito sull'ipotenusa"]
+
+question = "2x^2+1 e' un polinomio di grado:"
+answers = ["2 "]
+alternatives = ["1 ","3 ","4"]
+
+question = "-2x^4+x e' un polinomio di grado:"
+answers = ["4"]
+alternatives = ["1 ","2 ","3 "]
+
+question = "La somma (x+1)+(x+4) e' uguale a:"
+answers = ["2x+5 "]
+alternatives = ["2x ","5","X^2"]
+
+question = "La somma (x^2+x)+(x+1) e' uguale a:"
+answers = ["X^2+2x+1"]
+alternatives = ["X^3","X^2+2x ","1"]
+
+question = "Il prodotto x(x+1) e' uguale a:"
+answers = ["X^2+x "]
+alternatives = ["X^3+x ","X^2+2x ","0""]
+
+question = "Il prodotto x(x^2-x) e' uguale a:"
+answers = ["X^3-x^2 "]
+alternatives = ["X^3","X^4+9 ","-x"]
+
+question = "La somma (xy+x)+(xy+3) e' uguale a:"
+answers = ["2xy+x+3 "]
+alternatives = ["3xy","2xy+2x","2xy+3x+z"]
+
+question = "Il prodotto x(x+y) e' uguale a:"
+answers = ["X^2+xy "]
+alternatives = ["X^2","Y","X^2+10x"]
+
+question = "L'equazione fratta x/(x+1)=0 ha soluzione:"
+answers = ["0 "]
+alternatives = ["1 ","2 ","3""]
+
+question = "L'equazione fratta (x-3)/x=0 ha soluzione:"
+answers = ["3"]
+alternatives = ["0 ","1 ","2 "]
+
+question = "La disequazione x2>0 e' verificata:"
+answers = ["Per ogni x diverso da zero"]
+alternatives = ["Solo per x uguale a zero","Solo per x maggiore di zero","Da qualsiasi numero reale x "]
+
+question = "La disequazione x^2+1>0 e' verificata:"
+answers = ["Da qualsiasi numero reale x"]
+alternatives = ["Solo per x uguale a zero","Solo per x maggiore di zero","Per ogni x diverso da zero"]
+
+question = "La disequazione -x2<0 e' verificata:"
+answers = ["Per ogni x diverso da zero"]
+alternatives = ["Solo per x uguale a zero","Solo per x maggiore di zero","Da qualsiasi numero reale x"]
+
+question = "La disequazione x^2+2>0 e' verificata:"
+answers = ["Da qualsiasi numero reale x"]
+alternatives = ["Solo per x uguale a zero","Solo per x maggiore di zero","Per ogni x diverso da zero"]
+
+question = "Un polinomio di secondo grado ax^2+bx+c, se il discriminante e' maggiore di zero:"
+answers = ["Nei punti esterni all'intervallo delle soluzioni dell'equazione associata, ha lo stesso segno di a"]
+alternatives = ["Nei punti esterni all'intervallo delle soluzioni dell'equazione associata, ha segno opposto a quello di a","Nei punti esterni all'intervallo delle soluzioni dell'equazione associata, e' uguale a zero","Nei punti esterni all'intervallo delle soluzioni dell'equazione associata, e' uguale a 1""]
+
+question = "Un polinomio di secondo grado ax^2+bx+c, se il discriminante e' maggiore di zero:"
+answers = ["Nei punti interni all'intervallo delle soluzioni dell'equazione associata, ha segno opposto a quello di a"]
+alternatives = ["Nei punti interni all'intervallo delle soluzioni dell'equazione associata, ha lo stesso segno di a","Nei punti interni all'intervallo delle soluzioni dell'equazione associata, e' uguale a zero","Nei punti interni all'intervallo delle soluzioni dell'equazione associata, e' uguale a 1"]
+
+question = "Un polinomio di secondo grado ax2+bx+c, se il discriminante e' uguale a zero:"
+answers = ["Per x diverso dalla soluzione dell'equazione associata, ha lo stesso segno di a"]
+alternatives = ["Per x diverso dalla soluzione dell'equazione associata, e' uguale a zero","Per x diverso dalla soluzione dell'equazione associata, e' uguale a 1","Per x diverso dalla soluzione dell'equazione associata, ha lo stesso segno di b"]
+
+question = "Un polinomio di secondo grado ax2+bx+c, se il discriminante e' minore di zero:"
+answers = ["Per ogni valore di x, ha lo stesso segno di a"]
+alternatives = ["Per ogni valore di x, ha lo stesso segno di b","Per ogni valore di x e' uguale a 2","Per ogni valore di x e' uguale a 3""]
+
+question = "La disequazione x^2+x+1>0:"
+answers = ["Ha come soluzioni tutti i numeri reali"]
+alternatives = ["Non ha soluzioni (in altri termini, l'insieme delle soluzioni e' vuoto)","Ha come soluzioni solo i numeri reali maggiori di zero","Ha come soluzioni solo i numeri reali minori di zero""]
+
+question = "La disequazione x^2+x+1<0:"
+answers = ["Non ha soluzioni (in altri termini, l'insieme delle soluzioni e' vuoto)"]
+alternatives = ["Ha come soluzioni tutti i numeri reali","Ha come soluzioni solo i numeri reali maggiori di zero","Ha come soluzioni solo i numeri reali minori di zero"]
+
+question = "Il sistema delle disequazioni x>0 e x+1>0:"
+answers = ["Ha come soluzioni i numeri maggiori di 0"]
+alternatives = ["Non ha soluzioni","Ha come soluzioni i numeri reali maggiori di -1 e minori di 0","Ha come soluzioni i numeri minori di -1"]
+
+question = "Il sistema delle disequazioni x>0 e x+1<0:"
+answers = ["Non ha soluzioni"]
+alternatives = ["Ha come soluzioni i numeri reali maggiori di -1 e minori di 0","Ha come soluzioni i numeri maggiori di 0","Ha come soluzioni i numeri minori di -1""]
+
+question = "Il sistema delle disequazioni x<0 e x+1>0:"
+answers = ["Ha come soluzioni i numeri reali maggiori di -1 e minori di 0"]
+alternatives = ["Non ha soluzioni","Ha come soluzioni i numeri maggiori di 0","Ha come soluzioni i numeri minori di -1"]
+
+question = "Il sistema delle disequazioni x<0 e x+1<0:"
+answers = ["Ha come soluzioni i numeri minori di -1"]
+alternatives = ["Non ha soluzioni","Ha come soluzioni i numeri reali maggiori di -1 e minori di 0","Ha come soluzioni i numeri maggiori di 0"]
+
+question = "Una disequazione fratta di tipo (P/Q)>0 e' verificata:"
+answers = ["Per P e Q entrambi positivi o entrambi negativi "]
+alternatives = ["PerPeQnulli","PerPeQugualia1","Per P e Q uno positivo e uno negativo"]
+
+question = "Una disequazione fratta di tipo (P/Q)<0 e' verificata:"
+answers = ["Per P e Q uno positivo e uno negativo"]
+alternatives = ["PerPeQnulli","PerPeQugualia1","Per P e Q entrambi positivi o entrambi negativi "]
+
+question = "La disequazione fratta 1/x>0:"
+answers = ["Ha come soluzioni le x maggiori di zero"]
+alternatives = ["Ha come soluzioni le x maggiori o uguali a zero","Ha come soluzioni le x minori o uguali a zero","Ha come soluzioni le x minori di zero"]
+
+question = "La disequazione fratta 1/(-x)>0:"
+answers = ["Ha come soluzioni le x minori di zero"]
+alternatives = ["Ha come soluzioni le x maggiori o uguali a zero","Ha come soluzioni le x maggiori di zero","Ha come soluzioni le x minori o uguali a zero"]
+
+question = "La disequazione fratta 1/x<0:"
+answers = ["Ha come soluzioni le x minori di zero"]
+alternatives = ["Ha come soluzioni le x maggiori o uguali a zero","Ha come soluzioni le x maggiori di zero","Ha come soluzioni le x minori o uguali a zero"]
+
+question = "La disequazione fratta 1/(-x)<0:"
+answers = ["Ha come soluzioni le x maggiori di zero"]
+alternatives = ["Ha come soluzioni le x maggiori o uguali a zero","Ha come soluzioni le x minori o uguali a zero","Ha come soluzioni le x minori di zero0"]
+
+question = "I punti del piano cartesiano sono rappresentati:"
+answers = ["Da due coordinate"]
+alternatives = ["Da una coordinata","Da tre coordinate","Da quattro coordinate"]
+
+question = "La distanza tra due punti A e B rappresenta:"
+answers = ["La lunghezza del segmento di estremi A e B"]
+alternatives = ["L'area di un quadrato con A e B tra i vertici","Il volume di un cubo","L'area di un cerchio""]
+
+question = "La distanza tra i punti (0,0) e (0,1) e':"
+answers = ["1"]
+alternatives = ["0","Radice di 2 ","Radice di 3"]
+
+question = "La distanza tra i punti (0,0) e (1,1) e':"
+answers = ["Radice di 2 "]
+alternatives = ["0","1","Radice di 3"]
+
+question = "x=3 e' l'equazione di un retta:"
+answers = ["Parallela all'asse delle ordinate"]
+alternatives = ["Passante per (0,0)","Di coefficiente angolare 2","Parallela all'asse delle ascisse"]
+
+question = "y=-1 e' l'equazione di un retta:"
+answers = ["Parallela all'asse delle ascisse"]
+alternatives = ["Passante per (0,0)","Di coefficiente angolare 2","Parallela all'asse delle ordinate"]
+
+question = "y=5x e' l'equazione di un retta:"
+answers = ["Passante per (0,0)"]
+alternatives = ["Di coefficiente angolare 2","Parallela all'asse delle ascisse","Parallela all'asse delle ordinate""]
+
+question = "y=2x-10 e' l'equazione di un retta:"
+answers = ["Di coefficiente angolare 2"]
+alternatives = ["Passante per (0,0)","Parallela all'asse delle ascisse","Parallela all'asse delle ordinate"]
+
+question = "Due rette con lo stesso coefficiente angolare:"
+answers = ["Sono parallele"]
+alternatives = ["Sono perpendicolari","Hanno la stessa equazione","Si incontrano in (0,0)""]
+
+question = "Le rette y=x e y=2x:"
+answers = ["Si incontrano in (0,0)"]
+alternatives = ["Sono parallele","Sono perpendicolari","Hanno la stessa equazione"]
+
+question = "La distanza di un punto della circonferenza dal centro e':"
+answers = ["Uguale al raggio"]
+alternatives = ["Minore del raggio","Maggiore del raggio","Uguale al diametro"]
+
+question = "Alla circonferenza x2+y2-1=0 appartiene il punto:"
+answers = ["(1,0) "]
+alternatives = ["(0,0) ","(1,1) ","(2.0)"]
+
+question = "Alla circonferenza x2+y2-4=0 appartiene il punto:"
+answers = ["(2,0)"]
+alternatives = ["(0,0) ","(1,1) ","(1,0) "]
+
+question = "La circonferenza x^2+y^2=1 ha:"
+answers = ["Centro (0,0) e raggio 1"]
+alternatives = ["Centro (1,1) e raggio 1","Centro (0,0) e raggio 2","Centro (1,1) e raggio 2""]
+
+question = "Per tre punti non allineati:"
+answers = ["Passa una (e una sola) circonferenza"]
+alternatives = ["Passano due circonferenze","Passano tre circonferenze","Passano quattro circonferenze""]
+
+question = "Per i tre punti (0,0), (2,0), (0,1) passa la circonferenza:"
+answers = ["x^2+y^2-2x-y=0"
+ Section: (none)
+Explanation
+
+]
+alternatives = ["x^2+y^2-1=0","x^2+y^2-2=0","x^2+y^2-3=0"]
+
+question = "I punti di una parabola hanno la stessa distanza:"
+answers = ["Dal fuoco e dalla direttrice"]
+alternatives = ["Dal fuoco e dal vertice","Dal fuoco e dall'asse di simmetria","Dall'asse di simmetria e dalla direttrice"]
+
+question = "Un'equazione di tipo y=ax2+bx+c con a diverso da zero, rappresenta:"
+answers = ["Una parabola con asse di simmetria parallelo all'asse delle ordinate"]
+alternatives = ["Una retta","Una parabola con asse di simmetria parallelo all'asse delle ascisse","Una circonferenza"]
+
+question = "La parabola y=x2-3 passa per:"
+answers = ["(2,1) "]
+alternatives = ["(0,0) ","(0,2) ","(1,-8)"]
+
+question = "La parabola y=x2 passa per:"
+answers = ["(0,0) "]
+alternatives = ["(0,2) ","(2,1) ","(1,-8)"
+
+Section: (none) Explanation
+
+
+"]
+
+question = "Una funzione reale di una variabile reale ha come dominio:"
+answers = ["Un sottoinsieme non vuoto dell'insieme dei numeri reali"]
+alternatives = ["Il piano","Lo spazio","L'insieme delle lettere dell'alfabeto latino"]
+
+question = "Una funzione reale di una variabile reale a ogni elemento del dominio associa:"
+answers = ["Un numero reale"]
+alternatives = ["Un numero primo","Una retta","Una circonferenza"]
+
+question = "L'espressione f(x)=x/3 e' ben definita per:"
+answers = ["Ogni numero reale x"]
+alternatives = ["X diverso da -1","X diverso da 0","X diverso da 1""]
+
+question = "L'espressione f(x)=1/x e' ben definita per:"
+answers = ["X diverso da 0"]
+alternatives = ["Ogni numero reale x","X diverso da -1","X diverso da 1"]
+
+question = "L'espressione f(x)=1/(x+1) e' ben definita per:"
+answers = ["X diverso da -1"]
+alternatives = ["Ogni numero reale x","X diverso da 0","X diverso da 1"]
+
+question = "L'espressione f(x)=radice(x) e' ben definita per:"
+answers = ["X maggiore o uguale a0"]
+alternatives = ["Ogni numero reale x","X maggiore di 1","X maggiore o uguale a 2"]
+
+question = "L'espressione f(x)=3^x e' ben definita per:"
+answers = ["Ogni numero reale x"]
+alternatives = ["X maggiore o uguale a0","X maggiore di 1","X maggiore o uguale a 2""]
+
+question = "L'espressione f(x)=log(x-1) e' ben definita per:"
+answers = ["X maggiore di 1"]
+alternatives = ["Ogni numero reale x","X maggiore o uguale a0","X maggiore o uguale a 2"]
+
+question = "Il grafico di una funzione (reale, di una variabile reale) f e':"
+answers = ["L'insieme delle coppie ordinate (x,f(x)) al variare di x nel dominio"]
+alternatives = ["Il dominio","L'insieme di arrivo","L'insieme delle coppie ordinate (x,f(x)) al variare di x nell'insieme di arrivo"]
+
+question = "Il grafico di una funzione (reale, di una variabile reale) si puo' considerare:"
+answers = ["Un sottoinsieme del piano cartesiano"]
+alternatives = ["Il dominio","L'insieme di arrivo","Una circonferenza"]
+
+question = "La funzione f da R a R, definita come f(x)=x+2, e':"
+answers = ["Iniettiva"]
+alternatives = ["A valori interi","A valori razionali","Non iniettiva"]
+
+question = "La funzione f da R a R, definita come f(x)=10, e':"
+answers = ["Non iniettiva"]
+alternatives = ["A valori interi","A valori razionali","Iniettiva"]
+
+question = "La funzione f da R a R, definita come f(x)=5x, e':"
+answers = ["Iniettiva"]
+alternatives = ["A valori interi","A valori razionali","Non iniettiva"]
+
+question = "La funzione f da R a R, definita come f(x)=x^2, e':"
+answers = ["Non iniettiva"]
+alternatives = ["A valori interi","A valori razionali","Iniettiva"]
+
+question = "L'inversa di f(x)=x+2 e':"
+answers = ["G(y)=y-2 "]
+alternatives = ["G(y)=y/5 ","G(y)=y ","G(y)=1"]
+
+question = "L'inversa di f(x)=5x e':"
+answers = ["G(y)=y/5 "]
+alternatives = ["G(y)=y-2","G(y)=y ","G(y)=1""]
+
+question = "La composizione di f(x)=x-3 e g(x)=x+1 e':"
+answers = ["G(f(x))=(x-3)+1 "]
+alternatives = ["G(f(x))=-(x-5) ","G(f(x))=5(x-1) ","G(f(x))=(2x)^2"]
+
+question = "La composizione di f(x)=x-5 e g(x)=-x e':"
+answers = ["G(f(x))=-(x-5) "]
+alternatives = ["G(f(x))=5(x-1) ","G(f(x))=(x-3)+1 ","G(f(x))=(2x)2""]
+
+question = "La composizione di f(x)=2x e g(x)=x^2 e':"
+answers = ["G(f(x))=(2x)^2"]
+alternatives = ["G(f(x))=-(x-5) ","G(f(x))=5(x-1) ","G(f(x))=(x-3)+1 "]
+
+question = "La composizione di f(x)=x-1 e g(x)=5x e':"
+answers = ["G(f(x))=5(x-1) "]
+alternatives = ["G(f(x))=-(x-5)","G(f(x))=(x-3)+1 ","G(f(x))=(2x)^2"]
+
+question = "Consideriamo la funzione lineare f(x)=2. Il grafico di f e':"
+answers = ["Una retta parallela all'asse delle x"]
+alternatives = ["L'insieme vuoto","Una circonferenza","Una retta parallela all'asse delle y"]
+
+question = "Consideriamo la funzione lineare f(x)=-3x. Il grafico di f e':"
+answers = ["Una retta passante per l'origine"]
+alternatives = ["Una parabola","L'insieme dei numeri naturali","Un quadrato"]
+
+question = "Consideriamo la funzione lineare f(x)=8x+4. Nel punto 0 la funzione f vale:"
+answers = ["4 "]
+alternatives = ["2 ","12 ","0"]
+
+question = "Consideriamo la funzione lineare f(x)=8x+4. Il grafico di f e':"
+answers = ["Una retta non passante per l'origine"]
+alternatives = ["L'insieme vuoto","Un quadrato","Una retta passante per l'origine"]
+
+question = "Il grafico di una funzione lineare e':"
+answers = ["Una retta"]
+alternatives = ["Una circonferenza","Una parabola","Un'ellisse""]
+
+question = "Per disegnare il grafico di una funzione lineare basta:"
+answers = ["Individuare due punti e tracciare la retta corrispondente"]
+alternatives = ["Disegnare una circonferenza","Disegnare un triangolo","Disegnare un quadrato"]
+
+question = "La funzione valore assoluto nel punto 5 vale:"
+answers = ["5 "]
+alternatives = ["0 ","1 ","7"]
+
+question = "La funzione valore assoluto nel punto 0 vale:"
+answers = ["0 "]
+alternatives = ["1 ","5 ","7""]
+
+question = "La funzione valore assoluto nel punto -1 vale:"
+answers = ["1 "]
+alternatives = ["0 ","5 ","7"]
+
+question = "La funzione valore assoluto nel punto -7 vale:"
+answers = ["7"]
+alternatives = ["0 ","1 ","5 "]
+
+question = "Consideriamo la funzione quadrato f(x)=x^2. Nel punto -1 la funzione f vale:"
+answers = ["1 "]
+alternatives = ["-1 ","1/9 ","-1/9""]
+
+question = "Consideriamo la funzione quadrato f(x)=x^2. Nel punto 1/3 la funzione f vale:"
+answers = ["1/9 "]
+alternatives = ["1 ","-1 ","-1/9"]
+
+question = "Consideriamo la funzione quadrato f(x)=x^2. Il grafico di f e':"
+answers = ["Una parabola con asse di simmetria l'asse delle y"]
+alternatives = ["Una parabola con asse di simmetria l'asse delle x","Una retta","Un rettangolo"]
+
+question = "La funzione radice quadrata e' definita per:"
+answers = ["I numeri reali maggiori o uguali a zero"]
+alternatives = ["I numeri interi negativi","I numeri razionali negativi","I numeri reali diversi da zero"]
+
+question = "Consideriamo la funzione radice quadrat"Nel punto 4 la funzione vale:"
+answers = ["2 "]
+alternatives = ["1/3 ","-1/3 ","-2"]
+
+question = "Consideriamo la funzione radice quadrat"Nel punto 1/9 la funzione vale:"
+answers = ["1/3 "]
+alternatives = ["-1/3 ","2 ","-2""]
+
+question = "Consideriamo la funzione inverso f(x)=1/x. Nel punto 5 la funzione f:"
+answers = ["Vale 1/5"]
+alternatives = ["Vale 19","Vale 8","Non e' definita"]
+
+question = "Consideriamo la funzione inverso f(x)=1/x. Nel punto 1/8 la funzione f:"
+answers = ["Vale 8"]
+alternatives = ["Vale 19","Vale 1/5","Non e' definita"]
+
+question = "Consideriamo la funzione inverso f(x)=1/x. Nel punto 0 la funzione f:"
+answers = ["Non e' definita"]
+alternatives = ["Vale 19","Vale 8","Vale 1/5"]
+
+question = "La legge della funzione reciproco descrive grandezze:"
+answers = ["Inversamente proporzionali"]
+alternatives = ["Direttamente proporzionali","Di misura 2","Di misura 10"]
+
+question = "Consideriamo la funzione esponenziale f(x)=3^x. Nel punto 0 la funzione f vale:"
+answers = ["1"]
+alternatives = ["1/3","3","Radice quadrata di 3""]
+
+question = "Consideriamo la funzione esponenziale f(x)=3^x. Nel punto 1 la funzione f vale:"
+answers = ["3"]
+alternatives = ["1","'1/3","Radice quadrata di 3"]
+
+question = "Consideriamo la funzione esponenziale f(x)=3^x. Nel punto 1/2 la funzione f vale:"
+answers = ["Radice quadrata di 3"]
+alternatives = ["1","'1/3","3"]
+
+question = "Consideriamo la funzione esponenziale f(x)=3^x. Nel punto -1 la funzione f vale:"
+answers = ["1/3"]
+alternatives = ["1","3","Radice quadrata di 3"]
+
+question = "Le funzioni esponenziali hanno sempre valori:"
+answers = ["Positivi "]
+alternatives = ["Nulli","Negativi ","Pari"]
+
+question = "Se f e' una funzione esponenziale di base maggiore di 1, al crescere di x:"
+answers = ["Cresce f(x)"]
+alternatives = ["Decresce f(x)","La funzione ha sempre valore 5","La funzione ha sempre valore -1""]
+
+question = "Se f e' una funzione esponenziale di base minore di 1, al crescere di x:"
+answers = ["Decresce f(x)"]
+alternatives = ["Cresce f(x)","La funzione ha sempre valore 5","La funzione ha sempre valore -1"]
+
+question = "Il numero di Eulero e' un numero irrazionale compreso tra:"
+answers = ["2e3"]
+alternatives = ["-1e0 ","0e1 ","1e2 "]
+
+question = "La disequazione 2^x>2 e' verificata per:"
+answers = ["X>1"]
+alternatives = ["X<1","X=1","Ogni numero reale x"]
+
+question = "La disequazione (1/2)^x>1/2 e' verificata per:"
+answers = ["X<1"]
+alternatives = ["X=1","X>1","Ogni numero reale x""]
+
+question = "La funzione logaritmo in base 3, nel punto 9 vale:"
+answers = ["2 "]
+alternatives = ["0 ","1 ","3"]
+
+question = "La funzione logaritmo in base 3, nel punto 27 vale:"
+answers = ["3"]
+alternatives = ["0 ","1 ","2 "]
+
+question = "La funzione logaritmo in base 3, nel punto 1 vale:"
+answers = ["0 "]
+alternatives = ["1 ","2 ","3""]
+
+question = "La funzione logaritmo in base 3, nel punto 3 vale:"
+answers = ["1 "]
+alternatives = ["0 ","2 ","3"]
+
+question = "Le funzioni logaritmo hanno come dominio:"
+answers = ["L'insieme dei numeri reali positivi"]
+alternatives = ["L'insieme dei numeri reali negativi","L'insieme dei numeri reali","L'insieme dei numeri razionali"
+ Section: (none)
+Explanation
+
+"]
+
+question = "Se f e' una funzione logaritmica di base maggiore di 1, al crescere di x:"
+answers = ["Cresce f(x)"]
+alternatives = ["La funzione rimane costante","La funzione assume solo valori interi","Decresce f(x)"]
+
+question = "Se f e' una funzione logaritmica di base minore di 1 (e maggiore di 0), al crescere di x:"
+answers = ["Decresce f(x)"]
+alternatives = ["La funzione rimane costante","La funzione assume solo valori interi","Cresce f(x)"]
+
+question = "Il logaritmo naturale ha base:"
+answers = ["e"]
+alternatives = ["1/3 ","1/2 ","2 "]
+
+question = "La funzione logaritmo in base 10, nel punto 100 vale:"
+answers = ["2 "]
+alternatives = ["1 ","3 ","4"
+
+Section: (none) Explanation
+
+
+]
+
+question = "La disequazione log x>0 e' verificata per:"
+answers = ["x>1"]
+alternatives = ["x<1","x=1","Ogni numero reale x"]
+
+question = "La funzione lineare f(x)=2x+1 e':"
+answers = ["Strettamente crescente"]
+alternatives = ["A valori numeri pari","Strettamente decrescente","Ne' crescente ne' decrescente"]
+
+question = "La funzione lineare f(x)=-3x+5 e':"
+answers = ["Strettamente decrescente"]
+alternatives = ["A valori numeri pari","Strettamente crescente","Ne' crescente ne' decrescente"]
+
+question = "La funzione esponenziale f(x)=(1/2)^x e':"
+answers = ["Strettamente decrescente"]
+alternatives = ["A valori numeri pari","Strettamente crescente","Ne' crescente ne' decrescente"]
+
+question = "La funzione esponenziale f(x)=2^x e':"
+answers = ["Strettamente crescente"]
+alternatives = ["A valori numeri pari","Strettamente decrescente","Ne' crescente ne' decrescente"]
+
+question = "La funzione valore assoluto e':"
+answers = ["Ne' crescente ne' decrescente"]
+alternatives = ["A valori numeri pari","Strettamente crescente","Strettamente decrescente"]
+
+question = "La funzione lineare f(x)=3x e':"
+answers = ["Sia concava che convessa"]
+alternatives = ["Ben definita solo per x diverso da zero","Convessa","Concava"]
+
+question = "La funzione quadrato f(x)=x^2 e':"
+answers = ["Convessa"]
+alternatives = ["Ben definita solo per x diverso da zero","Concava","Sia concava che convessa"]
+
+question = "La funzione radice quadrata e':"
+answers = ["Concava"]
+alternatives = ["Ben definita solo per x diverso da zero","Convessa","Sia concava che convessa"]
+
+question = "La funzione f(x)=x^2+1 ha minimo assoluto nel punto:"
+answers = ["0 "]
+alternatives = ["1 ","2 ","3""]
+
+question = "La funzione f(x)=-x^2 ha massimo assoluto nel punto:"
+answers = ["0 "]
+alternatives = ["1 ","2 ","3""]
+
+question = "Consideriamo la successione a(n)=4n. Il termine a(1) vale:"
+answers = ["4"]
+alternatives = ["1 ","2 ","3"]
+
+question = "Consideriamo la successione a(n)=n+2. Il termine a(1) vale:"
+answers = ["3 "]
+alternatives = ["1 ","2 ","4"]
+
+question = "Consideriamo la successione a(n)=2/n. Il termine a(2) vale:"
+answers = ["1 "]
+alternatives = ["2 ","3 ","4""]
+
+question = "Consideriamo la successione a(n)=n. Il termine a(2) vale:"
+answers = ["2 "]
+alternatives = ["1 ","3 ","4"]
+
+question = "Una successione e' convergente se:"
+answers = ["Ha come limite un numero reale"]
+alternatives = ["Ha tutti i valori interi","Ha tutti i valori razionali","Non e' ne' convergente ne' divergente""]
+
+question = "Una successione e' indeterminata se:"
+answers = ["Non e' ne' convergente ne' divergente"]
+alternatives = ["Ha come limite un numero reale","Ha tutti i valori interi","Ha tutti i valori razionali"]
+
+question = "La successione a(n)=n+1 e':"
+answers = ["Divergente a piu' infinito"]
+alternatives = ["Convergente a 1","Divergente a meno infinito","Indeterminata"]
+
+question = "La successione a(n)=1+(-1)^n e':"
+answers = ["Indeterminata"]
+alternatives = ["Convergente a 1","Divergente a piu' infinito","Divergente a meno infinito"]
+
+question = "La successione a(n)=(1/n)+1 e':"
+answers = ["Convergente a 1"]
+alternatives = ["Divergente a piu' infinito","Divergente a meno infinito","Indeterminata""]
+
+question = "La successione a(n)=-2n e':"
+answers = ["Divergente a meno infinito"]
+alternatives = ["Convergente a 1","Divergente a piu' infinito","Indeterminata"]
+
+question = "Un intervallo illimitato superiormente ha come secondo estremo:"
+answers = ["Piu' infinito"]
+alternatives = ["0","1","Meno infinito "]
+
+question = "Un intervallo illimitato inferiormente ha come primo estremo:"
+answers = ["Meno infinito "]
+alternatives = ["'0","'1","Piu' infinito"]
+
+question = "Sia f una funzione con dominio un intervallo "Per definire il limite al tendere dell'argomento a piu' infinito, A deve essere:"
+answers = ["Illimitato superiormente"]
+alternatives = ["Illimitato inferiormente","L'insieme vuoto","L'insieme dei numeri reali maggiori di 1 e minori di 2""]
+
+question = "Sia f una funzione con dominio un intervallo "Per definire il limite al tendere dell'argomento a meno infinito, A deve essere:"
+answers = ["Illimitato inferiormente"]
+alternatives = ["Illimitato superiormente","L'insieme vuoto","L'insieme dei numeri reali maggiori di 1 e minori di 2"]
+
+question = "Un limite di funzione:"
+answers = ["Non sempre esiste"]
+alternatives = ["Se esiste, e' sempre un numero reale","Se esiste, e' sempre piu' infinito","Esiste sempre"]
+
+question = "Un limite di funzione:"
+answers = ["Se esiste, e' unico"]
+alternatives = ["Se esiste, non e' detto che sia unico","Se esiste, e' sempre uguale a 0","Se esiste, e' sempre uguale a 2""]
+
+question = "La funzione f(x)=-x, per x che tende a piu' infinito, ha limite:"
+answers = ["Meno infinito "]
+alternatives = ["-1","-2","Piu' infinito"]
+
+question = "La funzione f(x)=-x, per x che tende a meno infinito, ha limite:"
+answers = ["Piu' infinito"]
+alternatives = ["-1","-2","Meno infinito "]
+
+question = "La funzione f(x)=-x, per x che tende a 1, ha limite:"
+answers = ["-1"]
+alternatives = ["-2","Meno infinito ","Piu' infinito""]
+
+question = "La funzione f(x)=-x, per x che tende a 2, ha limite:"
+answers = ["-2"]
+alternatives = ["-1","Meno infinito ","Piu' infinito"]
+
+question = "La funzione f(x)=3x-2, per x che tende a piu' infinito, ha limite:"
+answers = ["Piu' infinito "]
+alternatives = ["1","4","Meno infinito"]
+
+question = "La funzione f(x)=3x-2, per x che tende a meno infinito, ha limite:"
+answers = ["Meno infinito"]
+alternatives = ["1","4","Piu' infinito "]
+
+question = "La funzione f(x)=3x-2, per x che tende a 2, ha limite:"
+answers = ["4"]
+alternatives = ["1","Piu' infinito ","Meno infinito"]
+
+question = "La funzione valore assoluto di x, per x che tende a piu' infinito, ha limite:"
+answers = ["Piu' infinito "]
+alternatives = ["1","4","Meno infinito"]
+
+question = "La funzione valore assoluto di x, per x che tende a meno infinito, ha limite:"
+answers = ["Piu' infinito "]
+alternatives = ["1","4","Meno infinito"]
+
+question = "La funzione f(x)=2^x, per x che tende a piu' infinito, ha limite:"
+answers = ["Piu' infinito"]
+alternatives = ["0","3","20"]
+
+question = "La funzione f(x)=(1/2)^x, per x che tende a piu' infinito, ha limite:"
+answers = ["0"]
+alternatives = ["3","20","Piu' infinito""]
+
+question = "La funzione logaritmo in base 2, per x che tende a 8, ha limite:"
+answers = ["3"]
+alternatives = ["0","20","Piu' infinito"]
+
+question = "Sotto opportune ipotesi, il limite della somma di due funzioni e' uguale:"
+answers = ["Alla somma dei rispettivi limiti"]
+alternatives = ["All'insieme dei numeri naturali","A una circonferenza","Al prodotto dei rispettivi limiti"]
+
+question = "Sotto opportune ipotesi, il limite del prodotto di due funzioni e' uguale:"
+answers = ["Al prodotto dei rispettivi limiti"]
+alternatives = ["All'insieme dei numeri naturali","A una circonferenza","Alla somma dei rispettivi limiti"]
+
+question = "La funzione f(x)=(2^x)+5x, per x che tende a piu' infinito, ha limite:"
+answers = ["Piu' infinito "]
+alternatives = ["0","1/2","Meno infinito"]
+
+question = "La funzione f(x)=x(x+1), per x che tende a meno infinito, ha limite:"
+answers = ["Piu' infinito "]
+alternatives = ["0","1/2","Meno infinito"]
+
+question = "La funzione f(x)=(1-x)(x^2), per x che tende a piu' infinito, ha limite:"
+answers = ["Meno infinito"]
+alternatives = ["0","1/2","Piu' infinito "]
+
+question = "La funzione f(x)=1/(2^x), per x che tende a 1, ha limite:"
+answers = ["1/2"]
+alternatives = ["0","Piu' infinito ","Meno infinito"]
+
+question = "La funzione f(x)=2^(5x), per x che tende a meno infinito, ha limite:"
+answers = ["0"]
+alternatives = ["1/2","Piu' infinito ","Meno infinito""]
+
+question = "Indicare quale tra le seguenti e' una forma indeterminata:"
+answers = ["Infinito fratto infinito"]
+alternatives = ["Uno fratto infinito","Infinito fratto uno","Infinito fratto due"]
+
+question = "Indicare quale tra le seguenti e' una forma indeterminata:"
+answers = ["Infinito per zero"]
+alternatives = ["Uno per zero","Zero per zero","Infinito per infinito"]
+
+question = "La funzione f(x)=x^3-x, per x che tende a piu' infinito, ha limite:"
+answers = ["Piu' infinito"]
+alternatives = ["0","Meno infinito","40""]
+
+question = "La funzione f(x)=1/(x^3-x), per x che tende a piu' infinito, ha limite:"
+answers = ["0"]
+alternatives = ["Piu' infinito","Meno infinito","4"]
+
+question = "La funzione f(x)=x/(x^2-1), per x che tende a piu' infinito, ha limite:"
+answers = ["0"]
+alternatives = ["Piu' infinito","Meno infinito","40"
+ Section: (none)
+Explanation
+
+]
+
+question = "Una funzione f, definita in un intervallo A, e' continua in un punto p di A se:"
+answers = ["Illimitedif,perxchetendeap,e'ugualeaf(p)"]
+alternatives = ["Il limite di f, per x che tende a p, e' diverso da f(p)","Illimitedifperxchetendeapnonesiste","Il limite di f, per x che tende a p, non esiste o e' diverso da f(p)""]
+
+question = "Una funzione si dice continua:"
+answers = ["Se e' continua in ogni punto del dominio"]
+alternatives = ["Se i suoi valori sono interi","Se non e' ben definita","Se non e' costante"]
+
+question = "Se p e' un punto di discontinuita' per la funzione f:"
+answers = ["f non e' continua in p"]
+alternatives = ["f e' continua","f(p) e' un numero naturale pari","f e' continua in p"]
+
+question = "Le funzioni lineari:"
+answers = ["Sono continue"]
+alternatives = ["Sono sempre costanti","Non sono continue","Hanno dei punti di discontinuita'"
+]
+
+question = "Le funzioni esponenziali:"
+answers = ["Sono continue"]
+alternatives = ["Sono sempre costanti","Non sono continue","Hanno dei punti di discontinuita'"]
+
+question = "Se f, g sono funzioni continue (con lo stesso dominio A), la funzione quoziente f/g e':"
+answers = ["Continua nel dominio costituito dai punti di A nei quali g non si annulla"]
+alternatives = ["Sempre lineare","Definita anche nei punti in cui g si annulla","Continua nei punti in cui g si annulla"]
+
+question = "La composizione di due funzioni continue e':"
+answers = ["Una funzione continua"]
+alternatives = ["Sempre una funzione esponenziale","Sempre la funzione costante di valore 1","Una funzione non continua"]
+
+question = "La funzione f(x)=e^(4x), per x che tende a 1, ha limite:"
+answers = ["e^4"]
+alternatives = ["Log(2) ","0","2"]
+
+question = "La funzione f(x)=log(x-5), per x che tende a 7, ha limite:"
+answers = ["Log(2) "]
+alternatives = ["0","2","e^4""]
+
+question = "La funzione f(x)=2^(1/x), per x che tende a 1, ha limite:"
+answers = ["2"]
+alternatives = ["Log(2) ","0","e^4"]
+
+question = "Se una funzione continua (di dominio un intervallo) e' positiva in un punto, nei punti opportunamente "vicini" e':"
+answers = ["Positiva "]
+alternatives = ["Nulla","Negativa ","Costante"]
+
+question = "Se una funzione continua (di dominio un intervallo) e' negativa in un punto, nei punti opportunamente "vicini" e':"
+answers = ["Negativa"]
+alternatives = ["Nulla","Positiva ","Costante"]
+
+question = "La funzione f(x)=x-5, per x "vicino" a 2 e':"
+answers = ["Negativa "]
+alternatives = ["Nulla","Positiva ","Costante"]
+
+question = "La funzione f(x)=x-5, per x "vicino" a 10 e':"
+answers = ["Positiva "]
+alternatives = ["Nulla","Negativa ","Costante"]
+
+question = "Se una funzione continua (di dominio un intervallo) e' positiva in un punto e negativa in un altro:"
+answers = ["Si annulla in almeno un punto"]
+alternatives = ["Allora e' una funzione crescente","Forse si annulla in un punto","Non si annulla mai"]
+
+question = "La funzione f nel punto 1 e' negativa, nel punto 2 e' positiv"Inoltre f e' continu"Allora:"
+answers = ["F si annulla in almeno un punto dell'intervallo (1 , 2)"]
+alternatives = ["F non si annulla in nessun punto dell'intervallo (1 , 2)","F si annulla in almeno un punto dell'intervallo (2 , 3) ","F non si annulla in nessun punto dell'intervallo (2, 3)""]
+
+question = "Se una funzione continua (di dominio un intervallo) assume due valori:"
+answers = ["Allora assume anche tutti i valori compresi tra questi due"]
+alternatives = ["Allora assume anche valori interi","Allora e' crescente","Allora e' decrescente"]
+
+question = "La funzione f(x)=2x, nell'intervallo [0 , 1]:"
+answers = ["Assume tutti i valori reali maggiori o uguali a 0 e minori o uguali a 2"]
+alternatives = ["Assume solo alcuni valori maggiori o uguali a 0 e minori o uguali a 2","Assume tutti i valori maggiori o uguali a -2","Assume tutti i valori minori o uguali a 10""]
+
+question = "Il teorema di Weierstrass riguarda:"
+answers = ["Le funzioni continue in intervalli chiusi e limitati"]
+alternatives = ["Solo le funzioni a valori numeri naturali pari","Solo le funzioni a valori numeri naturali dispari","Le funzioni non continue"]
+
+question = "Una funzione continua di dominio un intervallo chiuso e limitato:"
+answers = ["Ha almeno un punto di massimo assoluto e uno di minimo assoluto"]
+alternatives = ["Ha un punto di massimo assoluto, ma nessun punto di minimo","Ha un punto di minimo assoluto, ma nessun punto di massimo","Non ha punti di massimo o di minimo"]
+
+question = "Una funzione f, definita in un intervallo A, e' derivabile in un punto di A se:"
+answers = ["Esiste, ed e' finito, il limite (per l'incremento che tende a zero) del rapporto incrementale"]
+alternatives = ["La funzione ha valori tutti positivi","Esiste, ed e' infinito, il limite (per l'incremento che tende a zero) del rapporto incrementale","Non esiste il limite (per l'incremento che tende a zero) del rapporto incrementale"]
+
+question = "Se il limite (al tendere dell'incremento a zero) del rapporto incrementale e' piu' infinito:"
+answers = ["La funzione non e' derivabile nel punto"]
+alternatives = ["La funzione e' costante","La funzione e' derivabile nel punto","La funzione potrebbe essere derivabile nel punto"]
+
+question = "Se la funzione e' derivabile in ogni punto del dominio:"
+answers = ["Allora ammette la funzione derivata"]
+alternatives = ["La funzione assume solo valori interi","La funzione e' lineare","Allora non esiste la funzione derivata"]
+
+question = "La funzione quadrato f(x)=x^2, e':"
+answers = ["Derivabile in ogni punto"]
+alternatives = ["Derivabile solo in alcuni punti","Crescente","Decrescente""]
+
+question = "La derivata di f(x)=x^2 e' la funzione:"
+answers = ["F'(x)=2x"]
+alternatives = ["F'(x)=x","F'(x)=x+1 ","F'(x)=log(x)"]
+
+question = "La funzione valore assoluto, nel punto 0:"
+answers = ["Non ammette la derivata"]
+alternatives = ["Vale 1","Vale 5","Ammette la derivata"]
+
+question = "La retta passante per due punti del grafico si definisce:"
+answers = ["Retta secante (il grafico, nei due punti)"]
+alternatives = ["Retta tangente","Derivata","Parabola""]
+
+question = "Se la funzione e' derivabile in un punto:"
+answers = ["Le rette secanti tendono a una "retta limite" detta tangente"]
+alternatives = ["Allora e' una funzione esponenziale","Allora e' una funzione logaritmica","Allora non ammette retta tangente nel punto"]
+
+question = "La derivata di una funzione in un punto e':"
+answers = ["Uguale al coefficiente angolare della retta tangente"]
+alternatives = ["Sempre uguale a zero","Sempre un numero positivo","Sempre un numero negativo""]
+
+question = "La derivata di una funzione in un punto e':"
+answers = ["Legata alla variabilita' della funzione "nelle vicinanze" del punto"]
+alternatives = ["Un'equazione","Una disequazione","Un prodotto notevole"]
+
+question = "Se una funzione e' derivabile in un punto, allora:"
+answers = ["La funzione e' continua nel punto"]
+alternatives = ["La funzione non e' continua nel punto","Non e' detto che la funzione sia continua nel punto","La funzione e' continua in tutto il dominio""]
+
+question = ""
+answers = ["La funzione non e' derivabile nel punto"]
+alternatives = [Se una funzione non e' continua in un punto, allora:
+"La funzione non e' continua in nessun altro punto del dominio","La funzione e' derivabile nel punto","La funzione potrebbe essere derivabile nel punto"]
+
+question = "Se una funzione e' continua in un punto, allora:"
+answers = ["Non e' detto che la funzione sia derivabile nel punto"]
+alternatives = ["La funzione non e' continua in nessun altro punto del dominio","La funzione e' derivabile nel punto","La funzione non e' derivabile nel punto"]
+
+question = "Se una funzione e' derivabile in ogni punto del dominio, allora:"
+answers = ["La funzione e' continua"]
+alternatives = ["La funzione e' costante","La funzione non e' costante","La funzione non e' continua"]
+
+question = "La funzione quadrato f(x)=x^2 e':"
+answers = ["Continua e derivabile in ogni punto"]
+alternatives = ["Continua, ma non derivabile, nel punto 0","Una funzione crescente","Una funzione a valori interi"]
+
+question = "La funzione valore assoluto e':"
+answers = ["Continua, ma non derivabile, nel punto 0"]
+alternatives = ["Continua e derivabile in ogni punto","Una funzione crescente","Una funzione a valori interi""]
+
+question = "La funzione valore assoluto e' un esempio:"
+answers = ["Di funzione continua, ma non derivabile, in un punto"]
+alternatives = ["Di funzione iniettiva","Di funzione decrescente","Di funzione non continua"]
+
+question = "La derivata seconda e':"
+answers = ["La derivata della derivata"]
+alternatives = ["La derivata della derivata seconda","L'inversa della funzione","La somma della funzione e della sua derivata""]
+
+question = "La derivata terza e':"
+answers = ["La derivata della derivata seconda"]
+alternatives = ["La derivata della derivata","L'inversa della funzione","La somma della funzione e della sua derivata"]
+
+question = "La derivata seconda e' ben definita:"
+answers = ["Per alcune funzioni"]
+alternatives = ["Solo per le funzioni a valori negativi","Per tutte le funzioni","Per nessuna funzione"]
+
+question = "La derivata di una funzione costante e':"
+answers = ["La funzione (costantemente) nulla"]
+alternatives = ["La funzione costante di valore 1","La funzione f(x)=ax^(a-1)","La funzione costante f(x)=m"]
+
+question = "La derivata della funzione f(x)=x e':"
+answers = ["La funzione costante di valore 1"]
+alternatives = ["La funzione f(x)=ax^(a-1)","La funzione costante f(x)=m","La funzione (costantemente) nulla""]
+
+question = "La derivata della funzione lineare f(x)=mx+q e':"
+answers = ["La funzione costante f(x)=m"]
+alternatives = ["La funzione costante di valore 1","La funzione f(x)=ax^(a-1)","La funzione (costantemente) nulla"]
+
+question = "La derivata della funzione potenza f(x)=x^a e':"
+answers = ["La funzione f(x)=ax^(a-1)"]
+alternatives = ["La funzione costante di valore 1","La funzione costante f(x)=m","La funzione (costantemente) nulla"]
+
+question = "La derivata della funzione esponenziale (di base e) f(x)=e^x e':"
+answers = ["La funzione f(x)=e^x"]
+alternatives = ["La funzione f(x)=1/x","La funzione f(x)=x+5","La funzione f(x)=(a^x)log(a)""]
+
+question = "La derivata della funzione esponenziale f(x)=a^x e':"
+answers = ["La funzione f(x)=(a^x)log(a)"]
+alternatives = ["La funzione f(x)=e^x","La funzione f(x)=1/x","La funzione f(x)=x+5"]
+
+question = "La derivata della funzione logaritmo (in base e) f(x)=log(x) e':"
+answers = ["La funzione f(x)=1/x"]
+alternatives = ["La funzione f(x)=e^x","La funzione f(x)=x+5","La funzione f(x)=(a^x)log(a)"]
+
+question = "La derivata della funzione f(x)=-2 e':"
+answers = ["La funzione f(x)=0"]
+alternatives = ["La funzione f(x)=(2^x)log(2)","La funzione f(x)=8","La funzione f(x)=x"]
+
+question = "La derivata della funzione f(x)=8x e':"
+answers = ["La funzione f(x)=8"]
+alternatives = ["La funzione f(x)=(2^x)log(2)","La funzione f(x)=0","La funzione f(x)=x"]
+
+question = "La derivata della funzione f(x)=2^x e':"
+answers = ["La funzione f(x)=(2^x)log(2)"]
+alternatives = ["La funzione f(x)=0","La funzione f(x)=8","La funzione f(x)=x""]
+
+question = "La derivata della somma f+g e':"
+answers = ["f'+g'"]
+alternatives = ["f'g+fg'","(f'g-fg')/(g^2) ","(-f')/(f^2)"]
+
+question = "La derivata del prodotto fg e':"
+answers = ["f'g+fg'"]
+alternatives = ["(f'g-fg')/(g^2) ","f'+g'","(-f')/(f2)""]
+
+question = "La derivata della funzione reciproca 1/f e':"
+answers = ["(-f')/(f^2)"]
+alternatives = ["f'g+fg'","(f'g-fg')/(g^2) ","f'+g'"]
+
+question = "La derivata del quoziente f/g e':"
+answers = ["(f'g-fg')/(g^2) "]
+alternatives = ["f'g+fg'","f'+g'","(-f')/(f^2)"]
+
+question = "La derivata della funzione f(x)=x+x^2 e':"
+answers = ["f'(x)=1+2x"
+ Section: (none)
+Explanation
+
+]
+alternatives = ["f'(x)=(-4)/(16x2) ","f'(x)=(xex-ex)/(x2) ","f'(x)=3ex"]
+
+question = "La derivata della funzione f(x)=3e^x e':"
+answers = ["f'(x)=3e^x"]
+alternatives = ["f'(x)=(-4)/(16x2)","f'(x)=(xe^x-e^x)/(x2) ","f'(x)=1+2x"]
+
+question = "La derivata della funzione f(x)=1/(4x) e':"
+answers = ["f'(x)=(-4)/(16x2)"]
+alternatives = ["f'(x)=(xe^x-e^x)/(x2) ","f'(x)=3e^x","f'(x)=1+2x""]
+
+question = "La derivata della funzione f(x)=(e^x)/(x) e':"
+answers = ["f'(x)=(xe^x-e^x)/(x^2) "]
+alternatives = ["f'(x)=(-4)/(16x^2)","f'(x)=3e^x","f'(x)=1+2x"]
+
+question = "La derivata della funzione composta g(f(x)) e':"
+answers = ["g'(f(x))f'(x)"
+
+Section: (none) Explanation
+
+
+]
+alternatives = ["g'(x)+f'(x) ","g'(x)","f'(x)"]
+
+question = "La derivata della funzione f(x)=e^(3x) e':"
+answers = ["f'(x)=3e^(3x) "]
+alternatives = ["f'(x)=3","f'(x)=ex","f'(x)=2log(x)"]
+
+question = "La derivata della funzione f(x)=x^9+x e':"
+answers = ["f'(x)=9x^8+1 "]
+alternatives = ["f'(x)=-5/(x2) ","f'(x)=e^x+xe^x ","f'(x)=2/(2x-1)""]
+
+question = "La derivata della funzione f(x)=xe^x e':"
+answers = ["f'(x)=e^x+xe^x "]
+alternatives = ["f'(x)=9x^8+1 ","f'(x)=-5/(x2) ","f'(x)=2/(2x-1)"]
+
+question = "La derivata della funzione f(x)=5/x e':"
+answers = ["f'(x)=-5/(x^2) "]
+alternatives = ["f'(x)=9x^8+1 ","f'(x)=e^x+xe^x ","f'(x)=2/(2x-1)"]
+
+question = "La derivata della funzione f(x)=log(2x-1) e':"
+answers = ["f'(x)=2/(2x-1)"]
+alternatives = ["f'(x)=9x^8+1 ","f'(x)=-5/(x2) ","f'(x)=e^x+xe^x "]
+
+question = "La derivata della funzione f(x)=2^(x^2+x) e':"
+answers = ["f'(x)=2(x^2+x)log(2)(2x+1)"]
+alternatives = ["f'(x)=(1/log(x))(1/x)","f'(x)=0","f'(x)=[(e^x+xe^x)(x-1)-xe^x]/(x-1)^2 "]
+
+question = "La derivata della funzione f(x)=(xe^x)/(x-1) e':"
+answers = ["f'(x)=[(e^x+xe^x)(x-1)-xe^x]/(x-1)^2 "]
+alternatives = ["f'(x)=(1/log(x))(1/x)","f'(x)=0","f'(x)=2(x^2+x)log(2)(2x+1)"]
+
+question = "La derivata della funzione f(x)=log(log(x)) e':"
+answers = ["f'(x)=(1/log(x))(1/x)"]
+alternatives = ["f'(x)=0","f'(x)=[(e^x+xe^x)(x-1)-xe^x]/(x-1)^2 ","f'(x)=2^(x^2+x)log(2)(2x+1)""]
+
+question = "La derivata della funzione f(x)=x^3-2x e':"
+answers = ["3x^2-2 "]
+alternatives = ["x-1","6x","6"]
+
+question = "La derivata seconda della funzione f(x)=x^3-2x e':"
+answers = ["6x"]
+alternatives = ["x-1","3x^2-2 ","6"]
+
+question = "La derivata terza della funzione f(x)=x^3-2x e':"
+answers = ["6"]
+alternatives = ["x-1","6x","3x^2-2 "]
+
+question = "Il limite di (2^x)/x, per x che tende a piu' infinito, si presenta nella forma indeterminata:"
+answers = ["Infinito/infinito"]
+alternatives = ["Piu' infinito meno infinito","Zero/zero","1^infinito"]
+
+question = "Il limite di (x^2-1)/(x^3-1), per x che tende a 1, si presenta nella forma indeterminata:"
+answers = ["Zero/zero"]
+alternatives = ["Piu' infinito meno infinito","Infinito/infinito","1^infinito"]
+
+question = "Il limite di x/log(x), per x che tende a piu' infinito, si presenta nella forma indeterminata:"
+answers = ["Infinito/infinito"]
+alternatives = ["Piu' infinito meno infinito","Zero/zero","1^infinito"]
+
+question = "La regola di de L'Hopital si usa per:"
+answers = ["Calcolare dei limiti che si presentano in forma indeterminata"]
+alternatives = ["Determinare l'unione di due insiemi","Determinare l'intersezione di due insiemi","Sommare due numeri razionali""]
+
+question = "Sotto opportune ipotesi, se f e g tendono entrambe a zero, o entrambe a un limite infinito, si ha:"
+answers = ["Lim(f/g)=lim(f'/g') "]
+alternatives = ["Lim(f/g)=lim(f'+g')","Lim(f/g)=lim(f'g') ","Lim(f/g)=lim(f+g)""]
+
+question = "Il limite di (2^x)/x, per x che tende a piu' infinito, e':"
+answers = ["Piu' infinito"]
+alternatives = ["1","'2/3","'0"]
+
+question = "Il limite di (x^2-1)/(x^3-1), per x che tende a 1, e':"
+answers = ["2/3"]
+alternatives = ["'1","'0","Piu' infinito"]
+
+question = "Il limite di x/log(x), per x che tende a piu' infinito, e':"
+answers = ["Piu' infinito"]
+alternatives = ["1","2/3","0"]
+
+question = "Il limite di x/(2^x), per x che tende a piu' infinito, e':"
+answers = ["0"]
+alternatives = ["1","2/3","Piu' infinito"]
+
+question = "Il limite di (log x)/x, per x che tende a piu' infinito, e':"
+answers = ["0"]
+alternatives = ["1","2/3","Piu' infinito"]
+
+question = "Una delle ipotesi del teorema di Rolle e' che:"
+answers = ["La funzione assume lo stesso valore nei due estremi dell'intervallo chiuso e limitato"]
+alternatives = ["La funzione non e' continua","La funzione non e' derivabile in nessun punto","La funzione assume valore diverso nei due estremi dell'intervallo chiuso e limitato"]
+
+question = "Il teorema di Rolle, sotto opportune ipotesi, afferma:"
+answers = ["L'esistenza di (almeno) un punto nel quale la derivata si annulla"]
+alternatives = ["L'esistenza di (almeno) un punto nel quale la derivata e' positiva","L'esistenza di (almeno) un punto nel quale la derivata e' negativa","L'esistenza di (almeno) un punto nel quale la funzione non e' continua""]
+
+question = "Il significato geometrico del teorema di Rolle riguarda:"
+answers = ["L'esistenza di (almeno) un punto del grafico con tangente parallela all'asse delle ascisse"]
+alternatives = ["L'esistenza di (almeno) un punto del grafico di ordinata 10","L'esistenza di (almeno) un punto del grafico con tangente perpendicolare all'asse delle ascisse","Le circonferenze del piano"]
+
+question = "Una delle ipotesi del teorema di Lagrange e' che:"
+answers = ["La funzione e' continua"]
+alternatives = ["La funzione non e' continua","La funzione e' costante","La funzione non e' costante""]
+
+question = "Il teorema di Lagrange (sotto opportune ipotesi) afferma che esiste c, appartenente all'intervallo (a , b), tale che:"
+answers = ["F'(c)=[f(b)-f(a)]/(b-a)"]
+alternatives = ["F'(c)=f(a)f(b)","F'(c)=f(a)/f(b)","F'(c)=f(b)-f(a)"]
+
+question = "Il significato geometrico del teorema di Lagrange riguarda:"
+answers = ["L'esistenza di (almeno) un punto del grafico con tangente parallela alla secante riferita agli estremi dell'intervallo"]
+alternatives = ["L'esistenza di (almeno) un punto del grafico con tangente perpendicolare alla secante riferita agli estremi dell'intervallo","L'esistenza di (almeno) un punto del grafico di ordinata 1","L'esistenza di (almeno) un punto del grafico di ordinata negativa"]
+
+question = "Una funzione che (in un intervallo) ha derivata nulla e':"
+answers = ["Costante"]
+alternatives = ["A valori interi","A valori razionali","Non continua"]
+
+question = "Una funzione costante (in un intervallo) ha:"
+answers = ["Derivata costantemente uguale a 0"]
+alternatives = ["Derivata costantemante uguale a 1","Derivata sempre positiva","Derivata sempre negativa"]
+
+question = "Due funzioni che hanno la stessa funzione derivata (in un intervallo):"
+answers = ["Differiscono per una costante"]
+alternatives = ["Sono uguali","Non sono continue","Hanno valori interi positivi""]
+
+question = "Due funzioni derivabili che differiscono per una costante:"
+answers = ["Hanno la stessa derivata"]
+alternatives = ["Sono iniettive","Non sono iniettive","Hanno derivata diversa"]
+
+question = "Sia (a , b) un intervallo reale, aperto e limitato. Gli estremi a, b:"
+answers = ["Non appartengono all'intervallo"]
+alternatives = ["Appartengono all'intervallo","Possono appartenere o non appartenere all'intervallo","Sono sempre maggiori di 0"]
+
+question = "Un numero reale si dice "interno" a un insieme se:"
+answers = ["Esiste un intervallo aperto che e' contenuto nell'insieme, e che ha come elemento il numero"]
+alternatives = ["Non esiste nessun intervallo aperto che e' contenuto nell'insieme, e che ha come elemento il numero","Appartiene all'insieme","Non appartiene all'insieme""]
+
+question = "Un punto del dominio di una funzione, si dice che e' un massimo relativo:"
+answers = ["Se esiste un intervallo aperto (a cui appartiene il punto) tale che, nell'intersezione tra l'intervallo e il dominio, la funzione assume sempre valori minori o uguali che nel punto"]
+alternatives = ["Se e' maggiore di 10","Se in esso la funzione assume un valore maggiore di 200","Se esiste un intervallo aperto tale che, nell'intersezione tra l'intervallo e il dominio, la funzione assume sempre valori negativi"]
+
+question = "Una delle ipotesi del teorema di Fermat e' che:"
+answers = ["Il punto di massimo relativo (o di minimo relativo) sia interno al dominio"]
+alternatives = ["Il punto di massimo relativo (o di minimo relativo) sia anche un punto di massimo assoluto (o di minimo assoluto)","La funzione sia derivabile in ogni punto","La funzione sia costante"
+
+Section: (none) Explanation
+
+
+]
+
+question = "Il teorema di Fermat afferma:"
+answers = ["Che nei punti (interni) di massimo relativo, e di minimo relativo, la derivata (se esiste) e' uguale a 0"]
+alternatives = ["Che nei punti (interni) di massimo relativo, e di minimo relativo, la derivata (se esiste) e' maggiore di 0","Che nei punti (interni) di massimo relativo, e di minimo relativo, la derivata (se esiste) e' minore di 0","Che nei punti (interni) di massimo relativo, e di minimo relativo, le funzioni non sono mai derivabili""]
+
+question = "Secondo il teorema della permanenza del segno, se una funzione, per x che tende a b, ha limite positivo, allora nei punti (opportunamente) vicini a b i suoi valori sono:"
+answers = ["Positivi "]
+alternatives = ["Interi","Razionali ","Negativi"]
+
+question = "Secondo il teorema della permanenza del segno, se una funzione, per x che tende a b, ha limite negativo, allora nei punti (opportunamente) vicini a b i suoi valori sono:"
+answers = ["Negativi"]
+alternatives = ["Interi","Razionali ","Positivi "]
+
+question = "La funzione f(x)=x^2 ha un punto di minimo in 0, e la sua derivata in 0 vale:"
+answers = ["0 "]
+alternatives = ["-1 ","1","2"]
+
+question = "La funzione f(x)=x^3 ha derivata nulla nel punto 0, che per f:"
+answers = ["Non e' ne' un punto di massimo relativo, ne' un punto di minimo relativo"]
+alternatives = ["e' un punto di discontinuita'","e' un punto di massimo relativo","e' un punto di minimo relativo"]
+
+question = "Se una funzione ha derivata uguale a 0 in un punto interno:"
+answers = ["Non e' detto che il punto sia di massimo relativo o di minimo relativo"]
+alternatives = ["Allora il punto e' di minimo relativo","Allora il punto e' di massimo relativo","Allora la funzione e' derivabile in tutto il dominio"]
+
+question = "La condizione del secondo ordine su massimi relativi e minimi relativi, riguarda:"
+answers = ["Punti interni, nei quali la funzione e' derivabile due volte"]
+alternatives = ["Punti interni, nei quali la funzione non e' derivabile due volte","Punti non interni, nei quali la funzione e' derivabile due volte","Punti non interni, nei quali la funzione non e' derivabile due volte""]
+
+question = "Se, in un punto interno, la funzione ha derivata prima uguale a zero e derivata seconda maggiore di zero, il punto e':"
+answers = ["Di minimo relativo"]
+alternatives = ["Di massimo assoluto","Di minimo assoluto","Di massimo relativo "]
+
+question = "Se, in un punto interno, la funzione ha derivata prima uguale a zero e derivata seconda minore di zero, il punto e':"
+answers = ["Di massimo relativo"]
+alternatives = ["Di massimo assoluto","Di minimo assoluto","Di minimo relativo"]
+
+question = "La derivata della funzione f(x)=3x^3-x si annulla nei punti:"
+answers = ["1/3, -1/3"]
+alternatives = ["0,1","-10, 6","1/2, -8"]
+
+question = "La derivata seconda della funzione f(x)=3x^3-x e':"
+answers = ["F''(x)=18x "]
+alternatives = ["F''(x)=10x^2 ","F''(x)=ln(x) ","F''(x)=e^xx"]
+
+question = "La funzione f(x)=3x^3-x ha un punto di massimo relativo in:"
+answers = ["-1/3"]
+alternatives = ["1","7 ","1/3 "]
+
+question = "La funzione f(x)=3x^3-x ha un punto di minimo relativo in:"
+answers = ["'1/3 "]
+alternatives = ["1 ","7 ","-1/3"]
+
+question = "I punti interni nei quali la funzione ha derivata diversa da zero:"
+answers = ["Non possono essere ne' di massimo assoluto, ne' di minimo assoluto"]
+alternatives = ["Possono essere di massimo assoluto, ma non di minimo assoluto","Possono essere di minimo assoluto, ma non di massimo assoluto","Potrebbero essere di massimo assoluto o di minimo assoluto""]
+
+question = "I punti del dominio che non sono interni:"
+answers = ["Potrebbero essere di massimo assoluto o di minimo assoluto"]
+alternatives = ["Non possono essere ne' di massimo assoluto, ne' di minimo assoluto","Possono essere di massimo assoluto, ma non di minimo assoluto","Possono essere di minimo assoluto, ma non di massimo assoluto"]
+
+question = "La funzione f(x)=e^x+2, nell'intervallo [0 , 1], ha un punto di minimo assoluto in:"
+answers = ["0 "]
+alternatives = ["1/4 ","1/3 ","1/2""]
+
+question = "Il campo di esistenza di un'espressione funzionale e':"
+answers = ["Il sottoinsieme di R nel quale l'espressione e' ben definita"]
+alternatives = ["Sempre un intervallo","Sempre l'insieme dei numeri reali negativi","Il sottoinsieme di R nel quale l'espressione non e' ben definita"]
+
+question = "Studiare il segno di una funzione, significa:"
+answers = ["Capire per quali valori la funzione e' maggiore di zero, per quali e' minore di zero, e per quali si annulla"]
+alternatives = ["Capire per quali valori e' ben definita la derivata prima","Capire per quali valori e' ben definita la derivata seconda","Capire per quali valori e' ben definita la derivata terza""]
+
+question = "Per individuare crescenza e decrescenza di una funzione, e' utile studiare:"
+answers = ["Il segno della derivata prima"]
+alternatives = ["Il valore della funzione quando l'argomento e' un numero naturale pari","Il valore della funzione quando l'argomento e' un numero naturale dispari","Il segno di un opportuno polinomio di secondo grado"]
+
+question = "Per individuare concavita' e convessita' di una funzione, e' utile studiare:"
+answers = ["Il segno della derivata seconda"]
+alternatives = ["Il valore della funzione quando l'argomento e' un numero intero","Il segno di un opportuno polinomio di terzo grado","Il segno di un opportuno polinomio di primo grado"]
+
+question = "Il grafico di una funzione interseca (eventualmente) l'asse delle y:"
+answers = ["Per x=0"]
+alternatives = ["Per x=-1","Per x=1","Per x=2"]
+
+question = "Il grafico di una funzione interseca (eventualmente) l'asse delle x:"
+answers = ["Per f(x)=0"]
+alternatives = ["Per f(x)=-5","Per f(x)=2","Per f(x)=10"]
+
+question = "Se la derivata prima e' maggiore o uguale a zero in un intervallo, allora:"
+answers = ["La funzione e' crescente nell'intervallo"]
+alternatives = ["La funzione e' decrescente nell'intervallo","La funzione e' convessa nell'intervallo","La funzione e' concava nell'intervallo""]
+
+question = "Se la derivata seconda e' minore o uguale a zero in un intervallo, allora:"
+answers = ["La funzione e' concava nell'intervallo"]
+alternatives = ["La funzione e' crescente nell'intervallo","La funzione e' decrescente nell'intervallo","La funzione e' convessa nell'intervallo"]
+
+question = "Se la derivata seconda e' maggiore o uguale a zero in un intervallo, allora:"
+answers = ["La funzione e' convessa nell'intervallo"]
+alternatives = ["La funzione e' crescente nell'intervallo","La funzione e' decrescente nell'intervallo","La funzione e' concava nell'intervallo"]
+
+question = "Se una funzione f e' crescente nell'intervallo (0 , 5):"
+answers = ["Rappresentando il grafico, il punto (1,f(1)) si trova piu' in basso (o alla stessa altezza) del punto (2,f(2))"]
+alternatives = ["Rappresentando il grafico, il punto (1,f(1)) si trova piu' in alto (o alla stessa altezza) del punto (2,f(2))","Rappresentando il grafico, il punto (2,f(2)) si trova piu' in basso (o alla stessa altezza) del punto (1,f(1))","Rappresentando il grafico, il punto (2,f(2)) si trova piu' in alto (o alla stessa altezza) del punto (3,f(3))""]
+
+question = "Nel caso di una funzione costante, in un intervallo chiuso e limitato, il trapezoide e':"
+answers = ["Un rettangolo"]
+alternatives = ["Un triangolo","Un cerchio","Una circonferenza"]
+
+question = "Consideriamo la funzione costante f(x)=2. L'area del trapezoide di f, nell'intervallo [0 , 2], e' uguale a:"
+answers = ["4"]
+alternatives = ["1 ","2 ","3 "]
+
+question = "Se dividiamo l'intervallo [0 , 16] in 8 intervalli di uguale ampiezza, ognuno di essi avra' ampiezza:"
+answers = ["2 "]
+alternatives = ["5 ","9 ","12""]
+
+question = "Per il teorema di Weierstrass,una funzione continua in un intervallo chiuso e limitato:"
+answers = ["Ha almeno un punto di massimo e almeno un punto di minimo"]
+alternatives = ["Ha almeno un punto di massimo, e nessun punto di minimo","Ha almeno un punto di minimo, e nessun punto di massimo","Non e' detto che abbia punti di massimo o di minimo""]
+
+question = "Le successioni s(n) e S(n) della definizione di integrale:"
+answers = ["Hanno lo stesso limite"]
+alternatives = ["Hanno limite diverso","Non hanno limite finito","Hanno tutti i termini interi"]
+
+question = "L'integrale definito di una funzione (continua, in un intervallo chiuso e limitato) si puo' definire come:"
+answers = ["Il limite comune a due (opportune) successioni"]
+alternatives = ["Un intervallo","Un insieme di punti del piano","Il limite del rapporto incrementale"]
+
+question = "Per una funzione continua (in un intervallo chiuso e limitato) e a valori positivi, l'integrale definito coincide con:"
+answers = ["L'area del trapezoide (della funzione, nell'intervallo)"]
+alternatives = ["Il perimetro del trapezoide (della funzione, nell'intervallo)","Meta' dell'area del trapezoide","Il doppio dell'area del trapezoide""]
+
+question = "Per una funzione continua (in un intervallo chiuso e limitato) e a valori positivi, i termini della successione s (n) costituiscono:"
+answers = ["Approssimazioni per difetto dell'area del trapezoide"]
+alternatives = ["Approssimazioni per eccesso del perimetro del trapezoide","Approssimazioni per difetto del perimetro del trapezoide","Approssimazioni per eccesso dell'area del trapezoide"]
+
+question = "Per una funzione continua (in un intervallo chiuso e limitato) e a valori positivi, i termini della successione S (n) costituiscono:"
+answers = ["Approssimazioni per eccesso dell'area del trapezoide"]
+alternatives = ["Approssimazioni per eccesso del perimetro del trapezoide","Approssimazioni per difetto del perimetro del trapezoide","Approssimazioni per difetto dell'area del trapezoide"
+ Section: (none)
+Explanation
+
+]
+
+question = "Per una funzione continua (in un intervallo chiuso e limitato) e a valori positivi, l'area del trapezoide coincide con:"
+answers = ["L'integrale definito della funzione nell'intervallo"]
+alternatives = ["Il valore della funzione nel primo estremo dell'intervallo","Il valore della funzione nel secondo estremo dell'intervallo","L'ampiezza dell'intervallo"]
+
+question = "L'integrale della funzione costante f(x)=-5, nell'intervallo [0 , 3], e' uguale a:"
+answers = ["-15"]
+alternatives = ["1 ","-1 ","15 "]
+
+question = "Se f e' una funzione (continua in un intervallo chiuso e limitato) e k e' un numero reale, l'integrale del prodotto tra k e f e' uguale:"
+answers = ["Al prodotto di k per l'integrale di f"]
+alternatives = ["Alla somma tra k e l'integrale di f","Alla differenza tra k e l'integrale di f","Al quoziente tra k e l'integrale di f"]
+
+question = "L'integrale della somma di due funzioni (continue in un intervallo chiuso e limitato) e' uguale:"
+answers = ["Alla somma degli integrali (delle funzioni)"]
+alternatives = ["Al prodotto degli integrali (delle funzioni)","Alla differenza tra l'integrale di una funzione e l'integrale dell'altra","Al quoziente tra l'integrale di una funzione e l'integrale dell'altra""]
+
+question = "Se f e' una funzione continua nell'intervallo chiuso e limitato [a , b], e c e' un punto interno all'intervallo, l'integrale di f in [a , b] e' uguale:"
+answers = ["Alla somma tra l'integrale di f in [a , c] e l'integrale di f in [c , b]"]
+alternatives = ["Al prodotto tra l'integrale di f in [a , c] e l'integrale di f in [c , b]","Alla differenza tra l'integrale di f in [a , c] e l'integrale di f in [c , b]","Al quoziente tra l'integrale di f in [a , c] e l'integrale di f in [c , b]""]
+
+question = "Se f, g sono funzioni continue nell'intervallo chiuso e limitato [a , b], con f(x) minore o uguale a g(x) nell'intervallo, l'integrale di f in [a , b] e':"
+answers = ["Minore o uguale all'integrale di g"]
+alternatives = ["Uguale all'integrale di g","Maggiore o uguale all'integrale di g","Uguale a 0"]
+
+question = "Se f e' una funzione continua nell'intervallo chiuso e limitato [a , b], allora esiste un numero reale c, appartenente all'intervallo (a , b), tale che l'integrale di f in [a , b] e' uguale a:"
+answers = ["(b-a)f(c) "]
+alternatives = ["(b-a)+f(c) ","(b-a)-f(c) ","(b-a)/f(c)"]
+
+question = "F e' una primitiva di f se:"
+answers = ["f e' la derivata di F"]
+alternatives = ["F e' la derivata di f","F e' uguale a F in tutto il dominio","F non e' continua"]
+
+question = "La formula fondamentale del calcolo integrale riguarda:"
+answers = ["Il concetto di integrale definito in relazione a quello di primitiva"]
+alternatives = ["Il concetto di funzione continua in relazione a quello di massimo comune divisore","Il concetto di funzione continua in relazione a quello di prodotto cartesiano","Il concetto di integrale definito in relazione a quello di funzione iniettiva"]
+
+question = "Se f e' una funzione continua nell'intervallo chiuso e limitato [a , b], e F e' una sua primitiva, l'integrale di f in [a , b] e' uguale a:"
+answers = ["F(b)-F(a) "]
+alternatives = ["F(b)","F(a)","2f(a)"]
+
+question = "L'integrale di f(x)=x nell'intervallo [0 , 1] e':"
+answers = ["1/2"]
+alternatives = ["1/20 ","1/8 ","1/5 "]
+
+question = "L'integrale indefinito (di una funzione continua in un intervallo) e':"
+answers = ["L'insieme delle primitive della funzione"]
+alternatives = ["L'insieme vuoto","L'insieme dei numeri interi relativi","L'insieme delle derivate della funzione"]
+
+question = "Il legame tra l'integrale definito e l'integrale indefinito si puo' vedere:"
+answers = ["Nella formula fondamentale del calcolo integrale"]
+alternatives = ["Nel teorema di Weierstrass","Nel teorema di esistenza dei valori intermedi","Nel teorema di Pitagora"]
+
+question = "L'integrale indefinito di f(x)=-2 e':"
+answers = ["-2x+c"]
+alternatives = ["[(x^4)/4]+c","Log|x|+c","[x^(-2)]/(-2)+c "]
+
+question = "L'integrale indefinito di f(x)=x^3 e':"
+answers = ["[(x^4)/4]+c"]
+alternatives = ["Log|x|+c","[x^(-2)]/(-2)+c ","-2x+c""]
+
+question = "L'integrale indefinito di f(x)=1/(x^3) e':"
+answers = ["[x^(-2)]/(-2)+c "]
+alternatives = ["[(x^4)/4]+c","Log|x|+c","-2x+c"]
+
+question = "L'integrale indefinito di f(x)=1/x e':"
+answers = ["Log|x|+c"]
+alternatives = ["[(x^4)/4]+c","[x^(-2)]/(-2)+c ","-2x+c"]
+
+question = "L'integrale indefinito di f(x)=e^x e':"
+answers = ["E^x+c"]
+alternatives = ["(3^x)/(log3)+c ","Log(x+1)+c ","X^10+c"]
+
+question = "L'integrale indefinito di f(x)=3^x e':"
+answers = ["(3^x)/(log3)+c "]
+alternatives = ["E^x+c","Log(x+1)+c ","X^10+c""]
+
+question = "L'integrale indefinito di f(x)=7/(1+7x) e':"
+answers = ["Log|1+7x|+c"]
+alternatives = ["(1/x)+c","[(2x+1)^3]/3+c ","(4^x)+c"]
+
+question = "L'integrale indefinito di f(x)=2[(2x+1)^2] e':"
+answers = ["[(2x+1)^3]/3+c "]
+alternatives = ["(1/x)+c","(4^x)+c","Log|1+7x|+c"]
+
+question = "L'integrale indefinito di kf(x) (dove f e' una funzione continua in un intervallo, k un numero reale) e':"
+answers = ["kF(x)+c, dove F e' una primitiva di f"]
+alternatives = ["kF(x)+c, dove F e' la derivata di f","kf(x)+c","L'insieme vuoto"]
+
+question = "L'integrale indefinito di 5/x e':"
+answers = ["5log|x| "]
+alternatives = ["5/x","5x","5e^x"]
+
+question = "L'integrale indefinito di f(x)+g(x) (dove f, g sono funzioni continue in un intervallo) e':"
+answers = ["F(x)+G(x), dove F e' una primitiva di f, e G e' una primitiva di g"]
+alternatives = ["F(x)+c, dove F e' la derivata di f","F(x)+c, dove F e' una primitiva di f","F(x)/G(x), dove F e' una primitiva di f, e G e' una primitiva di g"]
+
+question = "L'integrale indefinito di x+1/x e':"
+answers = ["(x^2)/2+log|x|+c "]
+alternatives = ["(x^2)/2+c","log|x|+c","e(-x)""]
+
+question = "L'integrale indefinito di 2x^4+e^x e':"
+answers = ["2(x^5)/5+e^x+c "]
+alternatives = ["3x+c","x^2-x+10+c","log(x^2)+c"]
+
+question = "La proprieta' di integrazione per parti permette di:"
+answers = ["Ricondurre il calcolo dell'integrale indefinito di fg' al calcolo dell'integrale indefinito di f'g"]
+alternatives = ["Ricondurre il calcolo dell'integrale indefinito di fg' al calcolo dell'integrale indefinito di fg","Ricondurre il calcolo dell'integrale indefinito di fg' al calcolo dell'integrale indefinito di f'g'","Ricondurre il calcolo dell'integrale indefinito di fg' al calcolo dell'integrale indefinito di f+g""]
+
+question = "La funzione -xe^x e':"
+answers = ["Il prodotto di -x per la derivata di e^x"]
+alternatives = ["Il prodotto di -x per la derivata di x","Il prodotto di -x per la derivata di 1/x","Il prodotto di -x per la derivata di log(x)"]
+
+question = "La derivata di -x e':"
+answers = ["-1 "]
+alternatives = ["x ","2 ","x2""]
+
+question = "Per la proprieta' di integrazione per parti, l'integrale indefinito della funzione -xe^x e':"
+answers = ["-xe^x-H(x)+c, dove H e' una primitiva di -e^x"]
+alternatives = ["-xe^x-H(x)+c, dove H e' una primitiva di x^2","-xe^x-H(x)+c, dove H e' una primitiva di log(x+1)","-xe^x-H(x)+c, dove H e' una primitiva di 9x-2"]
+
+question = "L'integrale indefinito della funzione -xe^x e':"
+answers = ["-xe^x+e^x+c"]
+alternatives = ["-xe^x+c","log(x3)+c","e^(2x)+c"]
+
+question = "La formula fondamentale del calcolo integrale si puo' usare per:"
+answers = ["Calcolare un integrale definito, a partire dall'integrale indefinito della stessa funzione"]
+alternatives = ["Calcolare un integrale definito, a partire da un massimo comune divisore","Calcolare un integrale definito, a partire da un minimo comune multiplo","Calcolare un integrale definito, a partire da un'equazione di secondo grado"]
+
+question = "L'integrale di f(x)=3x nell'intervallo [0 , 1] e':"
+answers = ["3/2 "]
+alternatives = ["-1 ","7/3 ","2""]
+
+question = "L'integrale di f(x)=1 nell'intervallo [0 , 2] e':"
+answers = ["2"]
+alternatives = ["3/2 ","-1 ","7/3 "]
+
+question = "L'integrale di f(x)=-1 nell'intervallo [1 , 2] e':"
+answers = ["-1 "]
+alternatives = ["3/2 ","7/3 ","2"]
+
+question = "L'integrale di f(x)=2+x^2 nell'intervallo [0 , 1] e':"
+answers = ["7/3 "]
+alternatives = ["3/2 ","-1 ","2"]
+
+question = "L'integrale di f(x)=e^x nell'intervallo [0 , 3] e':"
+answers = ["(e^3)-1 "]
+alternatives = ["2+log(3) ","10","5/3"]
+
+question = "L'integrale di f(x)=1+1/x nell'intervallo [1 , 3] e':"
+answers = ["2+log(3) "]
+alternatives = ["(e^3)-1 ","10","5/3""]
+
+question = "La circonferenza di raggio r ha lunghezza:"
+answers = ["2(pigreco)r"]
+alternatives = ["(pigreco)r^2","[(pigreco)r^2]/2 ","2r"]
+
+question = "Il cerchio di raggio r ha area:"
+answers = ["(pigreco)r^2"]
+alternatives = ["[(pigreco)r^2]/2 ","2(pigreco)r","2r""]
+
+question = "Il semicerchio di raggio r ha area:"
+answers = ["[(pigreco)r^2]/2 "]
+alternatives = ["(pigreco)r^2","2(pigreco)r","2r"]
+
+question = "Una funzione reale di due variabili reali ha come dominio:"
+answers = ["Un sottoinsieme non vuoto di R^2"]
+alternatives = ["L'insieme dei numeri naturali pari","L'insieme dei numeri naturali dispari","L'insieme dei numeri razionali"]
+
+question = "Gli elementi del dominio di una funzione reale di due variabili reali, sono:"
+answers = ["Coppie ordinate di numeri reali"]
+alternatives = ["Numeri reali","Sfere","Parallelepipedi"
+ Section: (none)
+Explanation
+
+]
+
+question = "Una funzione reale di una variabile reale a ogni elemento del dominio associa:"
+answers = ["Un numero reale"]
+alternatives = ["Una coppia ordinata di numeri reali","Una sfera","Un parallelepipedo""]
+
+question = "Se f(x,y)=2x-y, f(4,1) e' uguale a:"
+answers = ["7"]
+alternatives = ["4 ","5 ","6 "]
+
+question = "Se g(x,y)=x/y, g(4,1) e' uguale a:"
+answers = ["4 "]
+alternatives = ["5 ","6 ","7""]
+
+question = "L'espressione f(x,y)=x/y e' ben definita:"
+answers = ["Per y diverso da 0"]
+alternatives = ["Per (x,y) diverso da (0,0)","Per ogni coppia di numeri reali (x,y)","Per x diverso da y"
+
+Section: (none) Explanation
+
+
+]
+
+question = "L'espressione f(x,y)=2^(xy) e' ben definita per:"
+answers = ["Per ogni coppia di numeri reali (x,y)"]
+alternatives = ["(Solo) per (x,y) diverso da (0,0)","(Solo) per y diverso da 0","(Solo) per x diverso da y"]
+
+question = "L'espressione f(x,y)=1/(x-y) e' ben definita per:"
+answers = ["Per x diverso da y"]
+alternatives = ["Per (x,y) diverso da (0,0)","Per ogni coppia di numeri reali (x,y)","Per y diverso da 0"]
+
+question = "L'espressione f(x,y)=log(x^2+y^2) e' ben definita per:"
+answers = ["Per (x,y) diverso da (0,0)"]
+alternatives = ["Per ogni coppia di numeri reali (x,y)","(Solo) per y diverso da 0","(Solo) per x diverso da y""]
+
+question = "La composizione di f(t)=(t/2,2t) e g(x,y)=xy e':"
+answers = ["G(f(t))=t^2 "]
+alternatives = ["G(f(t))=-t","G(f(t))=log(t) ","G(f(t))=e^t"]
+
+question = "Gli elementi dell'insieme R^3 si possono vedere come:"
+answers = ["Terne ordinate di numeri reali"]
+alternatives = ["Numeri reali","Coppie ordinate di numeri reali","Numeri primi"]
+
+question = "R^3 si puo' vedere come:"
+answers = ["Uno spazio tridimensionale"]
+alternatives = ["L'insieme dei numeri interi relativi","L'insieme vuoto","Un punto""]
+
+question = "L'origine dello spazio R^3 ha coordinate:"
+answers = ["(0,0,0) "]
+alternatives = ["(1,0,0) ","(0,1,0) ","(0,0,1)""]
+
+question = "Il grafico di una (generica) funzione reale di due variabili reali f e':"
+answers = ["L'insieme delle terne ordinate (x,y,f(x,y)) al variare di (x,y) nel dominio"]
+alternatives = ["Il campo di esistenza","L'insieme delle terne ordinate (x,y,x) al variare di (x,y) nel dominio","L'insieme delle terne ordinate (x,y,y) al variare di (x,y) nel dominio"]
+
+question = "Il grafico di una funzione reale di due variabili reali si puo' considerare:"
+answers = ["Un sottoinsieme dello spazio tridimensionale"]
+alternatives = ["Un sottoinsieme del piano cartesiano","Un sottoinsieme dello spazio reale a quattro dimensioni","Un sottoinsieme dello spazio reale a cinque dimensioni"]
+
+question = "Gli elementi del grafico di f(x,y)=5 sono terne ordinate di tipo:"
+answers = ["(x,y,5)"]
+alternatives = ["(x,y,e^(x+y)) ","(x,y,x-y)","(x,y,xy)"]
+
+question = "Gli elementi del grafico di f(x,y)=x-y sono terne ordinate di tipo:"
+answers = ["(x,y,x-y)"]
+alternatives = ["(x,y,e^(x+y)) ","(x,y,5)","(x,y,xy)"]
+
+question = "Gli elementi del grafico di f(x,y)=e^(x+y) sono terne ordinate di tipo:"
+answers = ["(x,y,e^(x+y)) "]
+alternatives = ["(x,y,x-y)","(x,y,5)","(x,y,xy)""]
+
+question = "La curva di livello di una funzione a due variabili, rispetto al valore k, e':"
+answers = ["L'insieme dei punti del dominio nei quali la funzione vale k"]
+alternatives = ["Sempre una retta","Sempre una parabola","L'insieme di arrivo"]
+
+question = "Nei punti di una curva di livello, la funzione:"
+answers = ["Assume sempre lo stesso valore"]
+alternatives = ["Assume sempre valori positivi","Assume sempre valori negativi","Puo' assumere valori diversi"]
+
+question = "La funzione f(x,y)=x-y, per (x,y) che tende a (1,1), ha limite:"
+answers = ["0"]
+alternatives = ["Meno infinito","Piu' infinito","-1"]
+
+question = "La funzione f(x,y)=log(x+y), per (x,y) che tende a (0,0), ha limite:"
+answers = ["Meno infinito"]
+alternatives = ["Piu' infinito","-1 ","0""]
+
+question = "La funzione f(x,y)=-1/(x^2+y^2), per (x,y) che tende a (0,0), ha limite:"
+answers = ["Meno infinito"]
+alternatives = ["Piu' infinito","-1","0""]
+
+question = "La composizione di f(x,y)=x^2+y^2+1 con g(t)=log(t) e':"
+answers = ["G(f(x,y))=log(x^2+y^2+1) "]
+alternatives = ["G(f(x,y))=e^(x^2+y^2+1) ","G(f(x,y))=log(x^2)","G(f(x,y))=x+y"]
+
+question = "La funzione h(x,y)=log(x^2+y^2+1) e':"
+answers = ["Continua"]
+alternatives = ["A valori interi","A valori negativi","Reale di una variabile reale"]
+
+question = "Un punto e' di massimo assoluto (per una funzione reale, di due variabili reali) se:"
+answers = ["Nel punto la funzione assume valore maggiore o uguale che in qualsiasi punto del dominio"]
+alternatives = ["Nel punto la funzione assume valore minore o uguale che in qualsiasi punto del dominio","Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori maggiori o uguali che nel punto","Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori minori o uguali che nel punto"]
+
+question = "Un punto e' di minimo assoluto (per una funzione reale, di due variabili reali) se:"
+answers = ["Nel punto la funzione assume valore minore o uguale che in qualsiasi punto del dominio"]
+alternatives = ["Nel punto la funzione assume valore maggiore o uguale che in qualsiasi punto del dominio","Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori maggiori o uguali che nel punto","Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori minori o uguali che nel punto""]
+
+question = "Un punto e' di massimo relativo (per una funzione reale, di due variabili reali) se:"
+answers = ["Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori minori o uguali che nel punto"]
+alternatives = ["Nel punto la funzione assume valore minore o uguale che in qualsiasi punto del dominio","Nel punto la funzione assume valore positivo","Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori maggiori o uguali che nel punto"]
+
+question = "Un punto (del dominio) e' di minimo relativo (per una funzione reale, di due variabili reali) se:"
+answers = ["Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori maggiori o uguali che nel punto"]
+alternatives = ["Nel punto la funzione assume valore negativo","Nel punto la funzione assume valore maggiore o uguale che in qualsiasi punto del dominio","Esiste un cerchio (a cui appartiene il punto) tale che, nell'intersezione tra il cerchio e il dominio, la funzione assume sempre valori minori o uguali che nel punto"]
+
+question = "La funzione f(x)=-(x^2+y^2) ha massimo assoluto nel punto:"
+answers = ["(0,0) "]
+alternatives = ["(-2,5) ","(10,12) ","(1,1)"]
+
+question = "La derivata parziale di f(x,y) rispetto alla variabile x:"
+answers = ["Si puo' vedere come la derivata di una funzione di una variabile, considerando la y come una costante"]
+alternatives = ["Si puo' vedere come la derivata di una funzione di una variabile, considerando la x come una costante","Esiste sempre","Risulta sempre maggiore di 1""]
+
+question = "La derivata parziale di f(x,y) rispetto alla variabile y:"
+answers = ["Si puo' vedere come la derivata di una funzione di una variabile, considerando la x come una costante"]
+alternatives = ["Si puo' vedere come la derivata di una funzione di una variabile, considerando la y come una costante","Esiste sempre","Risulta sempre maggiore di 1"]
+
+question = "Se una funzione di due variabili ammette entrambe le derivate parziali in un punto:"
+answers = ["Non e' detto che sia continua nel punto"
+ Section: (none)
+
+ Explanation
+
+]
+alternatives = ["Allora e' un polinomio","Allora e' continua nel punto","Non e' continua nel punto"]
+
+question = "La derivata parziale, rispetto alla x, di f(x,y)=3xy e':"
+answers = ["3y "]
+alternatives = ["2x ","3x ","1"]
+
+question = "La derivata parziale, rispetto alla y, di f(x,y)=3xy e':"
+answers = ["3x "]
+alternatives = ["2x ","3y ","1"]
+
+question = "La derivata parziale, rispetto alla x, di f(x,y)=x^2+y e':"
+answers = ["2x "]
+alternatives = ["3y ","3x ","1""]
+
+question = "La derivata parziale, rispetto alla y, di f(x,y)=x^2+y e':"
+answers = ["1"
+
+]
+alternatives = ["2x ","3y ","3x "]
+
+question = "La derivata parziale, rispetto alla x, di f(x,y)=e^x-log(x+y) e':"
+answers = ["E^x-1/(x+y) "]
+alternatives = ["E^(xy)","-1/(x+y)","-2x"]
+
+question = "La derivata parziale, rispetto alla y, di f(x,y)=e^x-log(x+y) e':"
+answers = ["-1/(x+y)"]
+alternatives = ["E^(xy)","E^x-1/(x+y) ","-2x"]
+
+question = "Il teorema di Fermat (per funzioni di due variabili) afferma:"
+answers = ["Che nei punti (interni) di massimo relativo, e di minimo relativo, le derivate parziali (se esistono) sono uguali a 0"]
+alternatives = ["Che nei punti (interni) di massimo relativo, e di minimo relativo, le derivate parziali non esistono","Che nei punti (interni) di massimo relativo, e di minimo relativo, la funzione e' continua","Che nei punti (interni) di massimo relativo, e di minimo relativo, le derivate parziali (se esistono) sono diverse da 0"]
+
+question = "Se una funzione (di dominio un intervallo) è derivabile e crescente, la derivata è sempre:"
+answers = ["Maggiore o uguale a zero"]
+alternatives = ["Un numero naturale pari","Un numero irrazionale","Minore o uguale a zero"]
+
+question = "Se una funzione (di dominio un intervallo) è derivabile e decrescente, la derivata è sempre:"
+answers = ["Minore o uguale a zero"]
+alternatives = ["Un numero naturale pari","Un numero irrazionale","Maggiore o uguale a zero"]
+
+question = "Se una funzione (di dominio un intervallo) ha derivata sempre minore o uguale a zero, la funzione è:"
+answers = ["Decrescente "]
+alternatives = ["Costante","Lineare","Crescente"]
+
+question = "La funzione f(x)=x^3 è:"
+answers = ["Crescente"]
+alternatives = ["Costante","Lineare","Decrescente "]
+
+question = "Se una funzione (di dominio un intervallo) è derivabile e convessa, la derivata è:"
+answers = ["Crescente"]
+alternatives = ["Decrescente ","Iniettiva","Un polinomio"]
+
+question = "Se una funzione (di dominio un intervallo) ha derivata crescente, la funzione è:"
+answers = ["Convessa"]
+alternatives = ["Concava","A valori interi ","A valori dispari""]
+
+question = "Se una funzione (di dominio un intervallo) è derivabile (almeno) due volte e concava, la derivata seconda è sempre:"
+answers = ["Minore o uguale a zero"]
+alternatives = ["Un numero razionale","Maggiore o uguale a zero","Maggiore di 1"]
+
+question = "Se una funzione (di dominio un intervallo) è derivabile (almeno) due volte e convessa, la derivata seconda è sempre:"
+answers = ["Maggiore o uguale a zero"]
+alternatives = ["Un numero razionale","Minore o uguale a zero","Maggiore di 1"]
+
+question = "Se una funzione (di dominio un intervallo) ha derivata seconda sempre minore o uguale a zero, la funzione è:"
+answers = ["Concava"]
+alternatives = ["A valori nell'intervallo [0 , 1]","Costantemente uguale a 5","Convessa"]
+
+question = "La funzione f(x)=-x^4 è:"
+answers = ["Concava"]
+alternatives = ["Convessa","Esponenziale ","Logaritmica""]
+
+question = "Indicare se l'ommomorfismo exp: R ->’ R* è un isomorfismo:"
+answers = ["no. E' infatti iniettivo, poichè e^x = 1 -> x = 0, ma non è suriettivo, poichè' la sua immagine contiene i soli numeri reali positivi."]
+alternatives = ["si","no. E' infatti iniettivo, poichè' e^x = 1 ->’ x = 0, ma è suriettivo,poichè la sua immagine contiene i soli numeri reali positivi.","no. Infatti non è iniettivo, poichè' e^x = 1 ->’ x = 0, ma non è suriettivo,poichè la sua immagine contiene i soli numeri reali positivi.""]
+
+question = "Qual è la Definizione di nucleo di φ:"
+answers = ["è l'insieme degli elementi g di G tali che φ(g) = e. L'immagine di φ è l'insieme degli elementi h € H per i quali esiste g € G tale che φ(g) = h"]
+alternatives = ["è l'insieme degli elementi g di G tali che φ(g) = e. L'immagine di φ è l'insieme degli elementi h € H per i quali esiste g € G tale che φ(g) > h","è l'insieme degli elementi g di G tali che φ(g) è diverso da e. L'immagine di φ è l'insieme degli elementi h € H per i quali esiste g € G tale che φ(g) = h","è l'insieme degli elementi g di G tali che φ(g) = e. L'immagine di φ è l'insieme degli elementi h € G per i quali esiste g € G tale che φ(h) = g"]
+
+question = "Siano G, H due gruppi. φ : G ->’ H è un omomorfismo di gruppi, o più semplicemente un omomorfismo, se:"
+answers = ["φ(ab) = φ(a)φ(b) per ogni scelta di a, b € G"]
+alternatives = ["φ(ab) < φ(a)φ(b) per ogni scelta di a, b € G","φ(ab) = φ(a)+φ(b) per ogni scelta di a, b € G","φ(a+b) = φ(a)φ(b) per ogni scelta di a, b € G"]
+
+question = "Quali delle seguenti definizioni sono esatte:"
+answers = ["un omomorfismo invertibile si dice isomorfismo, mentre un isomorfismo di un gruppo su se stesso si dice automorfismo"]
+alternatives = ["un omomorfismo invertibile si dice invomorfismo, mentre un isomorfismo di un gruppo su se stesso si dice automorfismo","un omomorfismo non invertibile si dice isomorfismo, mentre un isomorfismo di un gruppo su se stesso
+
+ si dice automorfismo","un omomorfismo invertibile si dice automorfismo, mentre un isomorfismo di un gruppo su se stesso si dice isomorfismo"]
+
+question = "L'insieme SX di tutte le applicazioni invertibili da un insieme X in se stesso, con l'operazione di composizione, è un gruppo, detto:"
+answers = ["il gruppo delle permutazioni di X"]
+alternatives = ["il gruppo delle inversioni di X","il gruppo Gaussiano di X","il gruppo di composizione multipla di X"]
+
+question = "Il numero di elementi di un campo finito è sempre potenza di un primo.:"
+answers = ["vero"]
+alternatives = ["falso","falso. E' sempre potenza di un numero pari","vero solo per potenze di un numero primo distinto da [1, 5]"]
+
+question = "Un gruppo di ordine primo è ciclico, e i suoi unici sottogruppi sono quelli banali.:"
+answers = ["vero"]
+alternatives = ["vero solo per gruppi di ordine primo ma distinti da R","falso perche' un gruppo di ordine primo non ha sottogruppi","falso"]
+
+question = ""
+answers = [Le isometrie del piano formano gruppo rispetto all'operazione di composizione.:
+"vero"]
+alternatives = ["falso","falso. Le isometrie del piano formano gruppo rispetto all'operazione di moltiplicazione associativa","falso. Le isometrie del piano formano anello rispetto all'operazione di composizione e moltiplicazione""]
+
+question = "Il sistema RSA (Rivest, Shamir, Adleman) è una possibile implementazione che utilizza le proprietà delle classi di resto:"
+answers = ["vero"]
+alternatives = ["falso","non esiste il sistema RSA","non esiste una proprietà delle classi di resto""]
+
+question = "L'applicazione che manda ogni elemento del gruppo G nell'identitò di un altro gruppo è un omomorfismo.:"
+answers = ["vero"]
+alternatives = ["falso","falso. E' un identomorfismo","falso. E' un isomorfismo duale""]
+
+question = "La Storia dell'eliminazione gaussiana:"
+answers = ["I primi a sfruttare le matrici per agevolare i propri calcoli furono i matematici cinesi, proprio nell'affrontare i sistemi lineari. Nel Jiuzhang Suanshu (Nove capitoli sulle arti matematiche), steso durante la dinastia Han, l'ottavo capitolo è interamente dedicato allo svolgimento di un problema matematico formulato sotto forma di sistema lineare. L'autore dispone ingegnosamente i coefficienti di ogni equazione parallelamente in senso verticale, in maniera quindi differente dalla notazione odierna, che li vuole disposti orizzontalmente, per righe: una semplice differenza di notazione. Ai numeri così disposti si applicava una serie di operazioni portandoli in una forma tale da rendere evidente quale fosse la soluzione del sistema:è quello che oggi conosciamo come metodo di eliminazione gaussiana, scoperto in occidente solo agli inizi del XIX secolo con gli studi del matematico tedesco Carl Friedrich Gauss."]
+alternatives = ["I primi a sfruttare le matrici per agevolare i propri calcoli furono i matematici cinesi, proprio nell'affrontare i sistemi lineari. Nel Jiuzhang Suanshu (Nove capitoli sulle arti matematiche), steso durante la dinastia Han, l'ottavo capitolo è interamente dedicato allo svolgimento di un problema matematico formulato sotto forma di sistema lineare. L'autore dispone ingegnosamente i coefficienti di ogni equazione parallelamente in senso orizzontale, in maniera quindi differente dalla notazione odierna, che li vuole disposti verticalmente, per righe: una semplice differenza di notazione. Ai numeri così disposti si applicava una serie di operazioni portandoli in una forma tale da rendere evidente quale fosse la soluzione del sistema: è quello che oggi conosciamo come metodo di eliminazione gaussiana, scoperto in occidente solo agli inizi del XIX secolo con gli studi del matematico tedesco Carl Friedrich Gauss.","I primi a sfruttare le matrici per agevolare i propri calcoli furono i matematici cinesi, proprio
+
+ nell'affrontare i sistemi lineari. Nel Jiuzhang Suanshu (Nove capitoli sulle arti matematiche), steso durante la dinastia Han, l'ottavo capitolo è interamente dedicato allo svolgimento di un problema matematico formulato sotto forma di sistema lineare. L'autore dispone ingegnosamente i quadrati dei coefficienti di ogni equazione parallelamente in senso verticale, in maniera quindi differente dalla notazione odierna, che li vuole disposti orizzontalmente, per righe: una semplice differenza di notazione. Ai numeri così disposti si applicava una serie di operazioni portandoli in una forma tale da rendere evidente quale fosse la soluzione del sistema: è quello che oggi conosciamo come metodo di eliminazione gaussiana, scoperto in occidente solo agli inizi del XIX secolo con gli studi del matematico tedesco Carl Friedrich Gauss.","I primi a sfruttare le matrici per agevolare i propri calcoli furono i matematici cinesi, proprio nell'affrontare i sistemi lineari. Nel Jiuzhang Suanshu (Nove capitoli sulle arti matematiche), steso durante la dinastia Han, l'ottavo capitolo è interamente dedicato allo svolgimento di un problema matematico formulato sotto forma di sistema lineare. L'autore dispone ingegnosamente gli opposti dei coefficienti di ogni equazione parallelamente in senso verticale, in maniera quindi differente dalla notazione odierna, che li vuole disposti orizzontalmente, per righe: una semplice differenza di notazione. Ai numeri così disposti si applicava una serie di operazioni portandoli in una forma tale da rendere evidente quale fosse la soluzione del sistema:è quello che oggi conosciamo come metodo di eliminazione gaussiana, scoperto in occidente solo agli inizi del XIX secolo con gli studi del matematico tedesco Carl Friedrich Gauss."]
+
+question = "Il metodo di Gauss :"
+answers = ["Nel 1888 il geodeta Jordan nella terza edizione del suo Handbuch der Vermessungskunde (Manuale di geodesia) ampliò il metodo di eliminazione di Gauss in quello che oggi è noto come metodo di eliminazione di Gauss-Jordan"]
+alternatives = ["Nel 1888 il geodeta Fermat nella terza edizione del suo Handbuch der Vermessungskunde (Manuale di geodesia) ampliò il metodo di eliminazione di Gauss in quello che oggi è noto come metodo di eliminazione di Gauss-Fermat","Nel 1888 il geodeta Cauchy nella terza edizione del suo Handbuch der Vermessungskunde (Manuale di geodesia) ampliò il metodo di eliminazione di Gauss in quello che oggi è noto come metodo di eliminazione di Gauss-Cauchy","Nel 1888 il geodeta Eulero nella terza edizione del suo Handbuch der Vermessungskunde (Manuale di geodesia) ampliò il metodo di eliminazione di Gauss in quello che oggi è noto come metodo di eliminazione di Gauss-Eulero""]
+
+question = "Per risolvere un sistema d'equazioni lineari usando il metodo di eliminazione di Gauss-Jordan seguire i"
+answers = ["1. Inserisci una matrice aumentat"2. Infatti l'algoritmo di eliminazione di Gauss-Jordan è diviso in eliminazione e in sostituzione posteriore. L'eliminazione del calcolo Gauss-Jordan riduce la matrice in forma di scaglione di colonn"La sostituzione posteriore dell'calcolo Gauss-Jordan riduce la matrice in forma ridotta di scaglione di fil"Ma praticamente è più conveniente eliminare tutti gli elementi di sotto e di sopra quando si utilizza il calcolo di eliminazione di Gauss-Jordan. Il nostro calcolatore usa questo metodo. 3. E' importante ricordare che mentre si calcola la matrice con il metodo Gauss-Jordan, se una matrice ha almeno uno riga zero con un non zero sulla destra (colonna dei termini costanti) il sistema di matrici è inconsistente in quel caso. Pertanto, una soluzione a tale sistema lineare di equazioni non esiste."]
+alternatives = [seguenti passi:
+"1. Inserisci una matrice diminuit"2. Infatti l'algoritmo di eliminazione di Gauss-Jordan è diviso in eliminazione e in sostituzione posteriore. L'eliminazione del calcolo Gauss-Jordan riduce la matrice in forma di scaglione di colonn"La sostituzione posteriore dell'calcolo Gauss-Jordan riduce la matrice in forma ridotta di scaglione di fil"Ma praticamente è più conveniente eliminare tutti gli elementi di sotto e di sopra quando si utilizza il calcolo di eliminazione di Gauss-Jordan. Il nostro calcolatore usa questo metodo. 3. E' importante ricordare che mentre si calcola la matrice con il metodo Gauss-Jordan, se una matrice ha almeno uno riga zero con un non zero sulla destra (colonna dei termini costanti) il sistema di matrici è inconsistente in quel caso. Pertanto, una soluzione a tale sistema lineare di equazioni non esiste.","1. Inserisci una matrice aumentat"2. Infatti l'algoritmo di eliminazione di Gauss-Jordan è diviso in eliminazione e in sostituzione posteriore. L'addizione del calcolo Gauss-Jordan riduce la matrice in forma di scaglione di colonn"La sostituzione posteriore dell'calcolo Gauss-Jordan riduce la matrice in forma ridotta di scaglione di fil"Ma praticamente è più conveniente eliminare tutti gli elementi di sotto e di sopra quando si utilizza il calcolo di eliminazione di Gauss-Jordan. Il nostro calcolatore usa questo metodo. 3. E' importante ricordare che mentre si calcola la matrice con il metodo Gauss-Jordan, se una matrice ha almeno uno riga zero con un non zero sulla destra (colonna dei termini costanti) il sistema di matrici è inconsistente in quel caso. Pertanto, una soluzione a tale sistema lineare di equazioni non esiste.","1. Inserisci una matrice aumentat"2. Infatti l'algoritmo di eliminazione di Gauss-Jordan è diviso in eliminazione e in sostituzione posteriore. L'eliminazione del calcolo Gauss-Jordan riduce la matrice in forma di scaglione di colonn"La sostituzione posteriore dell'calcolo Gauss-Jordan riduce la matrice in forma ridotta di scaglione di fil"Ma praticamente è più conveniente eliminare tutti gli elementi di sotto e di sopra quando si utilizza il calcolo di eliminazione di Gauss-Jordan. Il nostro calcolatore usa questo metodo. 3. E' importante ricordare che mentre si calcola la matrice con il metodo Gauss-Jordan, se una matrice non ha uno riga zero con un non zero sulla destra (colonna dei termini costanti) il sistema di matrici è inconsistente in quel caso. Pertanto, una soluzione a tale sistema lineare di equazioni non esiste."]
+
+question = "Teorema di Rouchè ̈-Capelli:"
+answers = ["1) rango(A) = rango(A|b) se e solo se il sistema è risolubile 2) rango(A) = rango(A|b) = n allora il sistema ha unica soluzione 3) rango(A) = rango(A|b) = p"]
+alternatives = ["1) rango(A) = rango(A|b) allora il sistema è risolubile 2) rango(A) = rango(A|b) = n allora il sistema ha unica soluzione 3) rango(A) = rango(A|b) = p","1) rango(A) = rango(A|b) se e solo se il sistema è risolubile 2) rango(A) = rango(A|b) = n se e solo se il sistema ha unica soluzione 3) rango(A) = rango(A|b) = p","1) rango(A) = rango(A|b) se e solo se il sistema è risolubile 2) rango(A) = rango(A|b) = n allora il sistema ha unica soluzione 3) rango(A) = rango(A|b) = p""]
+
+question = "Data una matrice A, rref(A) sta per:"
+answers = ["Reduced row echelon form"]
+alternatives = ["Reduced row echelon feed.","Reduced row even form","Random row echelon form"]
+
+question = "Nella FATTORIZZAZIONE LU:"
+answers = ["U è la matrice triangolare superiore ottenuta da A mediante l'algoritmo di Gauss con pivotizzazione parziale ed L è una matrice quadrata invertibile e 'a meno di permutazioni delle righe' è una matrice triangolare inferiore con tutti 1 sulla diagonale"]
+alternatives = ["U è la matrice diagonale superiore ottenuta da A mediante l'algoritmo di Gauss con pivotizzazione parziale ed L è una matrice quadrata invertibile e 'a meno di permutazioni delle righe' è una matrice triangolare inferiore con tutti 1 sulla diagonale","U è la matrice triangolare inferiore ottenuta da A mediante l'algoritmo di Gauss con pivotizzazione parziale ed L è una matrice quadrata invertibile e 'a meno di permutazioni delle righe' è una matrice triangolare inferiore con tutti 1 sulla diagonale","U è la matrice triangolare superiore ottenuta da A mediante l'algoritmo di Gauss con pivotizzazione totale ed L è una matrice quadrata non invertibile e 'a meno di permutazioni delle righe' è una matrice triangolare inferiore con tutti 1 sulla diagonale""]
+
+question = "Una trasformazione geometrica del piano che porta P1 in P2, con P1 e P2 vettori bidimensionali, può2 essere rappresentata nel seguente modo:"
+answers = ["P1 = AP2 + v dove A è una matrice quadrata 2x2 e v un vettore bidimensionale"]
+alternatives = ["P1 = AP2 + v dove A è una matrice quadrata 2x1 e v un vettore bidimensionale","P1 = AP2 + v dove A è una matrice quadrata 1x2 e v un vettore bidimensionale","P1 = AP2 + v dove A è una matrice quadrata 2x2 e v un vettore unidimensionale"]
+
+question = "Fra i molti possibili criteri per calcolare i parametri incogniti, quello più1 usato è il metodo dei minimi quadrati:"
+answers = ["Tale metodo determina i parametri incogniti in modo da rendere minima la somma dei quadrati degli scarti fra valori osservati e valori teorici"]
+alternatives = ["Tale metodo determina i parametri incogniti in modo da rendere massima la somma dei quadrati degli scarti fra valori osservati e valori teorici","Tale metodo determina i parametri incogniti in modo da rendere minima la differenza dei quadrati degli scarti fra valori osservati e valori teorici","Tale metodo determina i parametri incogniti in modo da rendere minima la somma dei cubi degli scarti fra valori osservati e valori teorici""]
+
+question = "La somma di due vettori a e b è un vettore c = a + b la cui direzione e verso si ottengono nel modo seguente:"
+answers = ["Si fissa il vettore a e, a partire dal suo punto estremo, si riporta il vettore "]
+alternatives = ["Il vettore che unisce l'origine di a con l'estremo di b fornisce la somma c = a + b.","Si fissa il vettore a e, a partire dal suo punto estremo, si riporta il vettore ","Il vettore che unisce l'origine di b con l'estremo di a fornisce la somma c = a + b"]
+
+question = "La moltiplicazione α·a di un vettore a con il numero reale α un vettore b =α a:"
+answers = ["Parallelo (o come si dirà in seguito, collineare) ad a di modulo | α |·| a | cioè pari al prodotto del valore assoluto di α con il modulo di a e verso coincidente con quello di a seα > 0, di verso opposto se α"]
+alternatives = ["Parallelo (o come si dirà in seguito, collineare) ad a di modulo α·| a | cioè pari al prodotto di α con il modulo di a .","Parallelo (o come si dirà in seguito, collineare) ad a di modulo | α |· a cioè pari al prodotto del valore assoluto di α per a e verso coincidente con quello di a se α 0.","Parallelo (o come si dirà in seguito, collineare) ad a di modulo | α |·| a | cioè pari al prodotto del valore assoluto di α con il modulo di a e verso coincidente con quello di a se α 0."]
+
+question = "Se A è una matrice QUADRATA NON SINGOLARE:"
+answers = ["La soluzione può essere calcolata calcolata mediante l'algoritmo Gaussiano con pivot parziale"]
+alternatives = ["La soluzione non può essere calcolata calcolata mediante l'algoritmo Gaussiano con pivot parziale
+
+ ","La soluzione può essere calcolata calcolata mediante l'algoritmo Gaussiano con pivot doppio","La soluzione può essere calcolata calcolata mediante l'algoritmo Gaussiano con pivot necessariamente totale""]
+
+question = "Si controlla se il sistema è risolubile verificando che la matrice dei coefficienti A e la matrice completa (A|b) abbiano rango uguale:"
+answers = ["TRUE"]
+alternatives = ["FALSO","Il simbolo A|b non ha senso ","Vero solo se b è nullo"]
+
+question = "Si chiama prodotto scalare a->b-> tra due vettori a->b->’:"
+answers = ["Il numero che si ottiene moltiplicando il modulo del primo per l'intensità del vettore componente del secondo lungo il primo"]
+alternatives = ["Il numero che si ottiene moltiplicando il modulo del primo per l'intensità del vettore componente del primo lungo il secondo","Il vettore che si ottiene moltiplicando il modulo del primo per l'intensità del vettore componente del secondo lungo il primo","Il numero che si ottiene moltiplicando il modulo del primo per l'intensità del vettore componente del secondo lungo il secondo""]
+
+question = "Nel prodotto scalare tra due vettori a-> e b->:"
+answers = ["Se l'angolo tra a-> e b-> è ottuso, ba è considerata negativo e anche il prodotto scalare è minore di zero"]
+alternatives = ["Se l'angolo tra a-> e b-> è ottuso, ba è considerata positivo e anche il prodotto scalare è minore di zero","Se l'angolo tra a-> e b-> è ottuso, ba è considerata negativo e il prodotto scalare è maggiore di zero","Se l'angolo tra a-> e b-> è acuto, ba è considerata positivo e anche il prodotto scalare è minore di zero"
+
+]
+
+question = "Se si conoscono i moduli a e b dei due vettori a e b e l'angolo α che essi formano, il prodotto scalare può essere espresso anche:"
+answers = ["Dalla formula a-> b->’ = a b cos α"]
+alternatives = ["Dallaformulaa->+b->=(a+b)cosα ","Dallaformulaa->+b->=abcosα","Dallaformulaa->b->=absenα"]
+
+question = "Nel prodotto scalare tra due vettori a-> e b->, se a-> e b-> sono perpendicolari tra loro:"
+answers = ["Il valore ba è nullo e anche il prodotto scalare è uguale a zero"]
+alternatives = ["Il valore ab è nullo ma il prodotto scalareè diverso da zero","Il valore ba è nullo ed il prodotto scalare è diverso da zero","Il valore ba è sempre diverso da zero"]
+
+question = "I due vettori c e d formano un angolo di 60°. I loro moduli sono d = 16,0 e c = 22,0. Calcola il prodotto scalare c d->’:"
+answers = ["176 "]
+alternatives = ["166 ","167 ","177""]
+
+question = "Nel prodotto scalare tra due vettori a-> e b->:"
+answers = ["Se l'angolo tra a-> e b-> è acuto, ba si prende positivo e anche il prodotto scalare Ã ̈ positivo"]
+alternatives = ["Se l'angolo tra a-> e b-> è ottuso, ba è considerata positivo e anche il prodotto scalare Ã ̈ minore di zero","Se l'angolo tra a-> e b-> è acuto ba è considerata positivo e il prodotto scalare Ã ̈ minore di zero","Se l'angolo tra a-> e b-> è ottuso, ba è considerata negativo e anche il prodotto scalare Ã ̈ minore di
+
+ zero"]
+
+question = "Il simbolo a-> b->:"
+answers = ["Si legge a scalare b."]
+alternatives = ["Si legge a vettore b.","Sileggeaperb.","Si legge a sommato a b.""]
+
+question = "Indicare come si traduce in formula a scalare b:"
+answers = ["Otteniamo: a-> b-> = aba prodotto scalare dei vettori con a modulo del vettore a-> e ba componente di b lungo a."]
+alternatives = ["Otteniamo: a-> b->’ = aba con a modulo di aâ†’ prodotto vettoriale dicei vettori a e b.","Otteniamo: a-> b-> = aba prodotto scalare dei vettori con a modulo del vettore a-> e ba componente di b lungo a.","Otteniamo: a-> b-> = a + ba prodotto scalare dei vettori con a modulo del vettore a-> e ba componente di b lungo a"]
+
+question = "Una matrice a gradini è:"
+answers = ["una matrice quadrata o rettangolare in cui il primo elemento non nullo di ogni riga è più a destra del primo elemento non nullo della riga precedente."]
+alternatives = ["una matrice non quadrata e non rettangolare in cui il primo elemento non nullo di ogni riga è più a destra del primo elemento non nullo della riga precedente.","una matrice quadrata o rettangolare in cui il primo elemento nullo di ogni riga è più a destra del primo elemento nullo della riga precedente.","una matrice quadrata o rettangolare in cui il primo elemento non nullo di ogni riga è più a sinistra del secondo elemento non nullo della riga precedente.""]
+
+question = "Prende il nome di pivot:"
+answers = ["il primo elemento non nullo di ogni riga di una matrice a gradini"]
+alternatives = ["il primo elemento nullo di ogni riga di una matrice a gradini","il primo elemento non nullo di almeno una colonna di una matrice a gradini","il primo elemento non nullo di almeno una riga di una matrice a gradini"]
+
+question = "Il metodo di Gauss rappresenta un metodo alternativo a quello di Cramer, utilizzato per la risoluzione di un sistema di n equazioni in n incognite e si basa sull'osservazione che, in un sistema la cui matrice dei coefficienti è triagolare inferiore, è possibile ricavare il valore delle incognite a partire dall'ultima equazione e quindi, con sostituzioni successive, ricavare le altre incognite del sistema.:"
+answers = ["vero"]
+alternatives = ["falso","il metodo di Gauss è valido solo per matrici bidimensionali superiori","il metodo di Gauss è valido solo per matrici diagonali unitarie superiori"]
+
+question = "Il metodo di Gauss consiste nel:"
+answers = ["trasformare ogni sistema in un equivalente sistema triangolare"]
+alternatives = ["trasformare ogni sistema in un equivalente sistema quadrangolare","trasformare i sistemi ad unica soluzione in un equivalente sistema.","trasformare ogni sistema in un equivalente sistema non triangolare"]
+
+question = "Il metodo di Gauss è un metodo identico a quello di Cramer ma meno utilizzato:"
+answers = ["falso"]
+alternatives = ["vero","il metodo di Gauss è un metodo alternativo a quello di Pitagor"","il metodo di Gauss è un metodo alternativo a quello di Talete"
+
+"]
+
+question = "Metodo di Gauss, metodo di Gauss - Jordan e metodo di Cramer sono sinonimi:"
+answers = ["falso"]
+alternatives = ["vero","vero solo per matrici eptadimensionali ","vero solo per matrici quadridimensionali"]
+
+question = "Per il metodo di Gauss che il costo computazionale è dell'ordine di:"
+answers = ["(2/3) n^3 operazioni aritmetiche e non ci sono garanzie di stabilità numerica per tale metodo"]
+alternatives = ["(2/5) n^3 operazioni aritmetiche e non ci sono garanzie di stabilità numerica per tale metodo","(2/3) n^4 operazioni aritmetiche e non ci sono garanzie di stabilità numerica per tale metodo","(2/5) n operazioni aritmetiche e non ci sono garanzie di stabilità numerica per tale metodo"]
+
+question = "Le strategie di massimo pivot che permettono di rendere il metodo di eliminazione Gaussiana numericamente affidabile:"
+answers = ["vero"]
+alternatives = ["falso","vero solo per matrici invertibili trasposte ","vero solo per matrici ennadimensionali""]
+
+question = "Per le matrici di ordine 2x2 c'è un modo che velocizza il calcolo della loro inversa:"
+answers = ["infatti dopo aver stabilito che A è invertibile, si può calcolare la sua inversa seguendo il seguente
+
+ procedimento: 1) si scambiano di posto gli elementi sulla diagonale principale;2) si cambia il segno degli elementi sulla diagonale secondaria; 3) si dividono tutti gli elementi per il valore del determinante."]
+alternatives = ["infatti dopo aver stabilito che A è invertibile, si può calcolare la sua inversa seguendo il seguente procedimento: 1) si scambiano di posto gli elementi sulla diagonale principale;2) si cambia il segno degli elementi sulla diagonale principale; 3) si dividono tutti gli elementi per il valore del determinante.","infatti dopo aver stabilito che A è invertibile, si può calcolare la sua inversa seguendo il seguente procedimento: 1) si scambiano di posto gli elementi sulla diagonale secondaria;2) si cambia il segno degli elementi sulla diagonale secondaria; 3) si dividono tutti gli elementi per il valore del determinante.","infatti dopo aver stabilito che A è invertibile, si può calcolare la sua inversa seguendo il seguente procedimento: 1) si scambiano di posto gli elementi sulla diagonale secondaria;2) si cambia il segno degli elementi sulla diagonale principale; 3) si dividono tutti gli elementi per il valore del determinante."]
+
+question = "Date due matrici invertibili, vale la seguente proprietà:"
+answers = ["l'inverso del prodotto di A e B è il prodotto delle inverse delle matrici di partenza, scambiate però di posto nell'operazione di moltiplicazione"]
+alternatives = ["il prodotto di A e B è il prodotto delle inverse delle matrici di partenza, scambiate però di posto nell'operazione di moltiplicazione","l'inverso del prodotto di A e B è la somma delle inverse delle matrici di partenza, scambiate però di posto nell'operazione di moltiplicazione","l'inverso del prodotto di A e B è il rapporto delle inverse delle matrici di partenza, scambiate però di posto nell'operazione di moltiplicazione""]
+
+question = "La somma di due vettori v, u che giacciono nello spazio vettoriale (v + u) giace di nuovo nello stesso spazio vettoriale:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo per vettori con verso concorde","Vero solo per vettori con verso discorde"]
+
+question = "Il prodotto di un generico vettore v nello spazio vettoriale per un qualsiasi scalare k (sia k maggiore o minore di zero), kv è anch'esso un vettore dello stesso spazio vettoriale:"
+answers = ["TRUE "]
+alternatives = ["FALSE
+
+ ","Verosoloperk<0 ","Vero solo per k >0""]
+
+question = "Quali delle seguenti asserzioni è corretta?:"
+answers = ["L'insieme di due vettori di uno spazio vettoriale è chiuso rispetto all'operazione di addizione vettoriale, ed è chiuso rispetto al prodotto per uno scalare"]
+alternatives = ["L'insieme di due vettori di uno spazio vettoriale è aperto rispetto all'operazione di addizione vettoriale, ed è aperto rispetto al prodotto per uno scalare","L'insieme di due vettori di uno spazio vettoriale è chiuso rispetto all'operazione di addizione vettoriale, ed è aperto rispetto al prodotto per uno scalare","L'insieme di due vettori di uno spazio vettoriale è aperto rispetto all'operazione di addizione vettoriale, ed è chiuso rispetto al prodotto per uno scalare"]
+
+question = "Il piano è un sottoinsieme dell'insieme di tutti i vettori a tre componenti ( v, u e w) e questo insieme più grande è anch'esso uno spazio vettoriale:"
+answers = ["Un sottospazio di un piano è, a sua volta uno spazio vettoriale"]
+alternatives = ["Un sottospazio di un piano non è, a sua volta uno spazio vettoriale","Un sottospazio di un piano è, a sua volta uno spazio vettoriale se, e soltanto se, il piano è affine e non ortogonale","Un sottospazio di un piano è, a sua volta uno spazio vettoriale se, e soltanto se, il piano non è affine ed è tridimensioanale""]
+
+question = "Il metodo di Gauss applicato ad un sistema lineare Ax = b non produce solo la soluzione di x che viene facilitata ma permette inoltre, cosa ben più importante, di rispondere a domande teoriche quali l'esistenza ed unicità della soluzione:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Falsoseb>0 ","Falsoseb<0 "]
+
+question = "Una base di uno spazio vettoriale è un insieme di vettori che sverificano la/le seguenti proprietà:"
+answers = ["I ) sono linearmente indipendenti, ii ) generano l'intero spazio"]
+alternatives = ["I ) sono linearmente dipendenti, ii ) generano l'intero spazio","Ii ) generano l'intero spazio","I ) sono linearmente indipendenti"]
+
+question = "Il rango di una matrice A:"
+answers = ["Conta il numero di righe effettivamente indipendenti nella matrice a."]
+alternatives = ["Conta il numero di righe effettivamente dipendenti nella matrice a.","Conta il numero di colonne effettivamente indipendenti nella matrice a.","Conta il numero di colonne effettivamente dipendenti nella matrice a.""]
+
+question = "Le righe e le colonne della matrice identità sono linearmente indipendenti; diremo tali vettori unitari:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo per le righe","Vero solo per le colonne""]
+
+question = "In quale relazione sono il det A ed il det (2A)?:"
+answers = ["DetA=2deta."]
+alternatives = ["Det2A=2deta.","DetA=2det2a.","4detA=det2a."
+ Section: (none)
+
+ Explanation
+
+]
+
+question = "In quale relazione sono il det A ed il det (-A)?:"
+answers = ["Det(-A)=-deta."]
+alternatives = ["Det( - A) = deta.","Det(-A)=-det(-A)","Det(-A)=(-1)(-detA)""]
+
+question = "Lo spazio nullo di una matrice A...:"
+answers = ["È anche chiamato il 'nucleo' di A, e le sue dimensioni sono le 'nullità' di A."]
+alternatives = ["È anche chiamato il 'estremo' di A, e le sue dimensioni sono le 'nullità' di A.","È anche chiamato il 'nucleo' di A, e le sue dimensioni sono le 'basi nulle' di A.","È anche chiamato il 'nucleo' di A, e le sue dimensioni sono dispari.""]
+
+question = "Indichiamo la nullità di una matrice A con v(A) La sua relazione con il rango r è espressa da:"
+answers = ["V(A)=dimN(A)=n-r "]
+alternatives = ["V(A)=dimN(A)=n+r ","V(A)=dimN(A)=n-2r ","V(A)=dimN(A)=2n-r"]
+
+question = "Date due matrici A e B, la trasposta di AB è :"
+answers = ["(AB)^T = B^T A^T"]
+alternatives = ["(AB)^T = B^T A^2T","(AB)^T = B^2T A^T","(AB)^T = A^T B^T"
+
+]
+
+question = "Quali delle seguenti asserzioni è esatta:"
+answers = ["Rango + ordine di nullità = dimensione dello spazio colonne + dimensione dello spazio nullo = numero delle colonne."]
+alternatives = ["Rango + ordine di nullità = dimensione dello spazio colonne +dimensione dello spazio nullo = numero delle righe.","Rango - ordine di nullità = dimensione dello spazio colonne + dimensione dello spazio nullo = numero delle colonne.","Rango + ordine di nullità = dimensione dello spazio colonne - dimensione dello spazio nullo = numero delle colonne."]
+
+question = "Quali delle seguenti formulazioni del TFA è esatta :"
+answers = ["Ogni polinomio di grado n = 1 a coefficienti complessi possiede almeno una radice complessa."]
+alternatives = ["Ogni polinomio di grado n < 1 a coefficienti complessi possiede almeno una radice complessa.","Un polinomio di grado n = 1 a coefficienti complessi non è detto che possieda radici complesse","Ogni polinomio di grado n = 1 a coefficienti complessi possiede almeno una radice complessa se, e soltanto se, n è dispari""]
+
+question = "Ogni polinomio di grado n = 1 a coefficienti complessi si scompone nel prodotto di n fattori lineari a coefficienti complessi ed ammette n radici complesse, eventualmente coincidenti.:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo per n dispari ","Verso solo per n pari"]
+
+question = "Ogni polinomio di grado n = 1 a coefficienti reali si può scomporre nel prodotto di fattori reali di primo o secondo grado.:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo per n strettamente maggiore di 1","Verso solo se il polinomio ha coefficienti interi"]
+
+question = "Siano dati i vettori x (1, n) (vettore riga) ed il vettore y (n, 1) (vettore colonna), il loro prodotto interno è zero se e solo se i due vettori sono ortogonali.:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero anche per vettori paralleli ","Vero solo per vettori paralleli""]
+
+question = "Due sottospazi V e W dello stesso spazio Rn si dicono ortogonali se:"
+answers = ["Ogni vettore v in V è ortogonale ad ogni vettore w in W"]
+alternatives = ["Ogni vettore v in V è parallelo ad ogni vettore w in W","Esiste almeno un vettore v in V ortogonale ad ogni vettore w in W","Ogni vettore v in V è ortogonale ad almeno un vettore w in W""]
+
+question = "Due vettori qualunque soddisfano la diseguaglianza |aT b|= |a| |b|:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo se uno dei due vettori è nullo ","Vero solo se i vettori sono entrambi nulli""]
+
+question = "Il determinante di una matrice è...:"
+answers = ["Uno scalare"]
+alternatives = ["Un vettore","Una matrice","Un anello abeliano""]
+
+question = "Sia data una matrice "Se il rango della matrice A è massimo allora...:"
+answers = ["Det A diverso da 0"]
+alternatives = ["DetA=0","Det A diverso da 1","DetA=0"]
+
+question = "Sia data una matrice "Se detA=0 allora...:"
+answers = ["La matriceA è singolare"]
+alternatives = ["La matrice A è nulla.","La matrice A è la matrice identica.","La matrice A non è singolare"]
+
+question = "Sia data una matrice "Se il detA?? allora...:"
+answers = ["A è invertibile"]
+alternatives = ["A ha 1 sola colonna.","A ha rango nullo","A è non invertibile"]
+
+question = "Sia data una matrice "Il determinante di A è uguale al volume di unparallelepipedo P nello spazio a (n) dimensioni purchè i lati di P provengano dalle righe di A.:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Falso perché i lati di P devono provenire dalle colonne di "","Verosolopern>3""]
+
+question = "Il determinante di una matrice 3? a rango massimo è un parallelepipedo che ha come spigoli i tre vettori linearmente indipendenti di A:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo se una colonna della matrice ha tutti gli elementi uguali a 3 ","Vero solo se una riga della matrice ha tutti gli elementi uguali a 3"]
+
+question = "Nel caso di una matrice unitaria il determinante è...:"
+answers = ["Il volume di un cubo con lato uguale a uno"]
+alternatives = ["Il volume di un cubo con lato uguale a 3","Il volume di un parallelepipedo con lato diverso da uno","Il volume di un cubo con lato uguale a 0"]
+
+question = "Il determinante di una matrice che ha una riga (o una colonna) di zeri ...:"
+answers = ["È sempre uguale a zero"]
+alternatives = ["È sempre uguale a infinito","È sempre uguale ad 1","È sempre diverso da zero"]
+
+question = "Il rango di una matrice è k se c'è un minore di ordine k, della matrice, con determinante diverso da zero e tutti i minori (eventuali) di ordine k+1 hanno determinante nullo.:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo per k pari","Vero solo per k dispari""]
+
+question = "Sia data una matrice A 2x2. Il rango di A può essere :"
+answers = ["0,1o2."]
+alternatives = ["1o2.","0o2.","0,1,2o2^2""]
+
+question = "Sia A € R^n×n. Un numero ? per cui esiste un vettore x diverso da 0 tale che valga la relazione Ax = λx è detto:"
+answers = ["Autovalore"]
+alternatives = ["Autovettore","Spettro","Raggio spettrale""]
+
+question = "SiaA ? Rn×n. Sia ? un numero per cui esiste un vettore x diverso da 0 tale che valga la relazione Ax = ?x . x è detto:"
+answers = ["Autovettore corrispondente a ?"]
+alternatives = ["Autovalore corrispondente a ?","Autovettore corrispondente ad a.","Autovalore corrispondente ad a.
+
+]
+
+question = "Sia A ? Rn×n. L'insieme degli autovalori di A costituisce:"
+answers = ["Spettro di a."]
+alternatives = ["Dimensione di a.","Rango di a.","Raggio spettrale di a."]
+
+question = "SiaA ? Rn×n. Il modulo massimo degli autovalori di A è detto:"
+answers = ["Raggio spettrale di a."]
+alternatives = ["Rango di a.","Base di a.","Spettro di a."]
+
+question = "Un autovalore ? di una matrice A è anche autovalore di AT.:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo se A è diagonale inferiore ","Vero solo se A è simmetrica superiore""]
+
+question = "Se A è non singolare, allora l'autovalore ?' di A diverso da zero e 1/? è autovalore di A?? con x autovettore corrispondente.:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo se A è diagonale inferiore
+
+ ","Vero solo se A è non invertibile"]
+
+question = "Sia ? un autovalore di "Si chiama molteplicità algebrica di ?, e si indica con s(?):"
+answers = ["La molteplicità di ? come radice dell'equazione caratteristica."]
+alternatives = ["Il rango di A moltiplicato la molteplicità di ?","La molteplicità di ?2 come radice dell'equazione caratteristica.","La molteplicità di ? come radice della disequazione caratteristica."]
+
+question = "Sia ? un autovalore di "Si chiama autospazio di ?:"
+answers = ["L'insieme V? di tutti gli autovettori corrispondenti a ?"]
+alternatives = ["L'insieme V? di tutti gli autovettori corrispondenti a (? -1)2","L'insieme V? degli autovettori corrispondenti a (? - 1)","L'insieme V? di tutti gli autovalori corrispondenti a ?"]
+
+question = "Sia ? un autovalore di "Si chiama molteplicità geometrica di ?, e si indica con t (?):"
+answers = ["La dimensione di V? e quindi il massimo numero di autovettori linearmente indipendenti corrispondenti a?"]
+alternatives = ["La dimensione di V? e quindi il minimo numero di autovettori linearmente indipendenti corrispondenti a?","La dimensione di V? e quindi il massimo numero di autovettori linearmente dipendenti corrispondenti a?","La dimensione di V? moltiplicata per 2? e quindi il massimo numero di autovettori linearmente indipendenti corrispondenti a ?.""]
+
+question = "Se due autovalori sono distinti i corrispondenti autospazi sono disgiunti:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero solo per autovalori opposti ","Vero solo per autovalori inversi""]
+
+question = "L'equazione di una conica si studia in relazione al valore del determinante della matrice A che rappresenta la matrice dei coefficienti dell'equazione. Diremo che la conica è degenere se:"
+answers = ["Il determinante di A è detA = 0"]
+alternatives = ["Il determinante di A è detA = 1","Il determinante di A è detA < 0","Il determinante di A è detA > 0""]
+
+question = "Il determinante della matrice A dei coefficienti associata all'equazione di una conica si chiama:"
+answers = ["Discriminante"]
+alternatives = ["Decriminante","Delta conico","Determinante quadrico"]
+
+question = "Le coniche non degeneri si classificano come di seguito riportato:"
+answers = ["Iperbole, Parabola, Ellissi"]
+alternatives = ["Iperbole, Paraboloide, Ellissi","Iperbole, Parabola, Ellissoide","Iperboloide, Paraboloide, Ellissi"]
+
+question = "Le coniche degeneri possono essere:"
+answers = ["Rette parallele o rette incidenti"]
+alternatives = ["Iperboli che si intersecano in un sol punto","Rette incidenti mai parallele","Rette parallele mai incidenti"]
+
+question = "Una conica è il luogo dei punti del piano le cui coordinate sono soluzione ...:"
+answers = ["Di un'equazione di secondo grado"]
+alternatives = ["Di un'equazione di primo grado","Di un sistema di equazioni di primo grado","Di un'equazione di secondo grado necessariamente spuria.""]
+
+question = "Se la conica ha un centro, allora le coordinate (x; y) del centro sono soluzioni di un sistema lineare specifico:"
+answers = ["TRUE"]
+alternatives = ["FALSE","Vero e la conica è un'ellisse, un'iperbole o una parabol"","Vero e la conica è un'ellisse o una parabola."]
+
+question = "L'ellisse e la parabola hanno due direttrici:"
+answers = ["TRUE"]
+alternatives = ["FALSO perché solo l'ellisse ha due direttrici","Falso perché le coniche non hanno mai direttrici","Falso perché le direttrici sono tre"]
+
+question = "Una conica è il luogo geometrico dei punti del piano per i quali è costante il rapporto tra la distanza dal fuoco e la distanza dalla direttrice. Chiamiamo questo rapporto:"
+answers = ["Eccentricità"]
+alternatives = ["Accentricità ","Eccentricismo ","Fuochicità"]
+
+question = "I paraboloidi e gli iperboloidi sono...:"
+answers = ["Sempre quadriche reali, mentre gli ellissoidi possono essere reali o immaginari"]
+alternatives = ["Quadriche reali o o immaginarie, mentre gli ellissoidi sono sempre quadriche reali","Sempre quadriche immaginarie, mentre gli ellissoidi possono essere reali o immaginari","Sempre quadriche reali come lo sono gli ellissoidi"]
+
